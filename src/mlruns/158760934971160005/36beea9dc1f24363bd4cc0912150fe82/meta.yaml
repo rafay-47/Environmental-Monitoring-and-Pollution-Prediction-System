@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/36beea9dc1f24363bd4cc0912150fe82/artifacts
+end_time: 1734263945770
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 36beea9dc1f24363bd4cc0912150fe82
+run_name: amazing-asp-97
+run_uuid: 36beea9dc1f24363bd4cc0912150fe82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263945658
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a8df3596a4d24d02832e545e274e724a/artifacts
+end_time: 1734264471294
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a8df3596a4d24d02832e545e274e724a
+run_name: salty-bee-143
+run_uuid: a8df3596a4d24d02832e545e274e724a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264471142
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ed1c4caa0bdb453b99c784808ba24b33/artifacts
+end_time: 1734264636634
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ed1c4caa0bdb453b99c784808ba24b33
+run_name: bold-swan-933
+run_uuid: ed1c4caa0bdb453b99c784808ba24b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264636551
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/33c8474234df4a41883f34e5830552e1/artifacts
+end_time: 1734257140637
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 33c8474234df4a41883f34e5830552e1
+run_name: rumbling-sheep-415
+run_uuid: 33c8474234df4a41883f34e5830552e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257140471
+status: 3
+tags: []
+user_id: abdulrafay

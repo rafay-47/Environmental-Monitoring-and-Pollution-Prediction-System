@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/97bff3099b784a78ae79681844e70957/artifacts
+end_time: 1734264350547
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 97bff3099b784a78ae79681844e70957
+run_name: skittish-fowl-855
+run_uuid: 97bff3099b784a78ae79681844e70957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264350476
+status: 3
+tags: []
+user_id: abdulrafay

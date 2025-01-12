@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e8da9ff9a8bc4703bc3c540fee41c954/artifacts
+end_time: 1734261868030
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e8da9ff9a8bc4703bc3c540fee41c954
+run_name: youthful-panda-679
+run_uuid: e8da9ff9a8bc4703bc3c540fee41c954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261867973
+status: 3
+tags: []
+user_id: abdulrafay

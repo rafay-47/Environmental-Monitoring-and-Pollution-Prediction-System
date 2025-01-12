@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a3a96448ff2240a7b3d4225bde81c3f8/artifacts
+end_time: 1734257229979
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a3a96448ff2240a7b3d4225bde81c3f8
+run_name: auspicious-cod-565
+run_uuid: a3a96448ff2240a7b3d4225bde81c3f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257229931
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e0286f8156e649a8ab4aedf65a4635e8/artifacts
+end_time: 1734257144739
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e0286f8156e649a8ab4aedf65a4635e8
+run_name: dazzling-mole-542
+run_uuid: e0286f8156e649a8ab4aedf65a4635e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257144587
+status: 3
+tags: []
+user_id: abdulrafay

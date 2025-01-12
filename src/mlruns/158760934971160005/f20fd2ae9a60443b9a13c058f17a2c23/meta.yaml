@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f20fd2ae9a60443b9a13c058f17a2c23/artifacts
+end_time: 1734264873717
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f20fd2ae9a60443b9a13c058f17a2c23
+run_name: burly-pig-214
+run_uuid: f20fd2ae9a60443b9a13c058f17a2c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264873594
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ea8d99e7ca30447bbd1faef617608223/artifacts
+end_time: 1734264873252
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ea8d99e7ca30447bbd1faef617608223
+run_name: abrasive-fish-374
+run_uuid: ea8d99e7ca30447bbd1faef617608223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264873041
+status: 3
+tags: []
+user_id: abdulrafay

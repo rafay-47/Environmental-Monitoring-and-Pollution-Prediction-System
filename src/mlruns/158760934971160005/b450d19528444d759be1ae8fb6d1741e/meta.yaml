@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b450d19528444d759be1ae8fb6d1741e/artifacts
+end_time: 1734263308453
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b450d19528444d759be1ae8fb6d1741e
+run_name: fun-ape-92
+run_uuid: b450d19528444d759be1ae8fb6d1741e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263308246
+status: 3
+tags: []
+user_id: abdulrafay

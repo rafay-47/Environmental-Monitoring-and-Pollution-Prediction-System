@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b75c057b176347a59b143c31922baf77/artifacts
+end_time: 1734263953680
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b75c057b176347a59b143c31922baf77
+run_name: spiffy-newt-778
+run_uuid: b75c057b176347a59b143c31922baf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263953619
+status: 3
+tags: []
+user_id: abdulrafay

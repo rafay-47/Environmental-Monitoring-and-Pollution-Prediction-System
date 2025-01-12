@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/cb6f532d413548c8bef5439916ec16ba/artifacts
+end_time: 1734264474645
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: cb6f532d413548c8bef5439916ec16ba
+run_name: honorable-stag-178
+run_uuid: cb6f532d413548c8bef5439916ec16ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264474324
+status: 3
+tags: []
+user_id: abdulrafay

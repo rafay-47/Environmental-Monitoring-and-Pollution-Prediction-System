@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/03b2d314a43c4dd3832a4255fdbf8fcb/artifacts
+end_time: 1734263118086
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 03b2d314a43c4dd3832a4255fdbf8fcb
+run_name: sassy-mule-619
+run_uuid: 03b2d314a43c4dd3832a4255fdbf8fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263118039
+status: 3
+tags: []
+user_id: abdulrafay

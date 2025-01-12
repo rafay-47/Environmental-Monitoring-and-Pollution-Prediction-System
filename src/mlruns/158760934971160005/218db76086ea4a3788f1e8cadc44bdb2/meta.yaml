@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/218db76086ea4a3788f1e8cadc44bdb2/artifacts
+end_time: 1734261592616
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 218db76086ea4a3788f1e8cadc44bdb2
+run_name: gifted-fly-679
+run_uuid: 218db76086ea4a3788f1e8cadc44bdb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261592546
+status: 3
+tags: []
+user_id: abdulrafay

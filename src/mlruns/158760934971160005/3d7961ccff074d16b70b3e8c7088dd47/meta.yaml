@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3d7961ccff074d16b70b3e8c7088dd47/artifacts
+end_time: 1734264354186
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3d7961ccff074d16b70b3e8c7088dd47
+run_name: learned-hog-331
+run_uuid: 3d7961ccff074d16b70b3e8c7088dd47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264354006
+status: 3
+tags: []
+user_id: abdulrafay

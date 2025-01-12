@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/adf7043d87c34ebfa98051e052d1d890/artifacts
+end_time: 1734263125130
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: adf7043d87c34ebfa98051e052d1d890
+run_name: selective-frog-26
+run_uuid: adf7043d87c34ebfa98051e052d1d890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263125019
+status: 3
+tags: []
+user_id: abdulrafay

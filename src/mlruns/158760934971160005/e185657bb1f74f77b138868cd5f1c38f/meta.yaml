@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e185657bb1f74f77b138868cd5f1c38f/artifacts
+end_time: 1734265118929
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e185657bb1f74f77b138868cd5f1c38f
+run_name: bittersweet-stag-298
+run_uuid: e185657bb1f74f77b138868cd5f1c38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265118800
+status: 3
+tags: []
+user_id: abdulrafay

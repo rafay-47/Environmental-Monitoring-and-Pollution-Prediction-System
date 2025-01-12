@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ab5d3c12309a47c6880c3137e4823439/artifacts
+end_time: 1734261869399
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ab5d3c12309a47c6880c3137e4823439
+run_name: delicate-perch-713
+run_uuid: ab5d3c12309a47c6880c3137e4823439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261869244
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6a0dda0649424fbeaecfd72c85d4ef9f/artifacts
+end_time: 1734264349682
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6a0dda0649424fbeaecfd72c85d4ef9f
+run_name: luminous-vole-840
+run_uuid: 6a0dda0649424fbeaecfd72c85d4ef9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349618
+status: 3
+tags: []
+user_id: abdulrafay

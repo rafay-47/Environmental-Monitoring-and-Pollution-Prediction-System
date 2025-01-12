@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/452a5d598f7745318a67ca45b008a32e/artifacts
+end_time: 1734264023692
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 452a5d598f7745318a67ca45b008a32e
+run_name: magnificent-fawn-681
+run_uuid: 452a5d598f7745318a67ca45b008a32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264023596
+status: 3
+tags: []
+user_id: abdulrafay

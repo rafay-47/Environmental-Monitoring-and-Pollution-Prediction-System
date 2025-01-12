@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/139a9306313f4c14b43ec9a5a0f9a687/artifacts
+end_time: 1734257137135
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 139a9306313f4c14b43ec9a5a0f9a687
+run_name: invincible-bass-122
+run_uuid: 139a9306313f4c14b43ec9a5a0f9a687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257136891
+status: 3
+tags: []
+user_id: abdulrafay

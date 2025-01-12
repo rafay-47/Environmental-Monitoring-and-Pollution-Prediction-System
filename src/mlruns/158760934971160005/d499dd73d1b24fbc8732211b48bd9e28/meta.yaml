@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d499dd73d1b24fbc8732211b48bd9e28/artifacts
+end_time: 1734257141464
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d499dd73d1b24fbc8732211b48bd9e28
+run_name: fun-smelt-914
+run_uuid: d499dd73d1b24fbc8732211b48bd9e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257141369
+status: 3
+tags: []
+user_id: abdulrafay

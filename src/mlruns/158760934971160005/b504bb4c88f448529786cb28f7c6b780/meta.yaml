@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b504bb4c88f448529786cb28f7c6b780/artifacts
+end_time: 1734265123221
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b504bb4c88f448529786cb28f7c6b780
+run_name: casual-sponge-456
+run_uuid: b504bb4c88f448529786cb28f7c6b780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265123072
+status: 3
+tags: []
+user_id: abdulrafay

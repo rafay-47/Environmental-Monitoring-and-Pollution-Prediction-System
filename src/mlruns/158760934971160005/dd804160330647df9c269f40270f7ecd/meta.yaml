@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/dd804160330647df9c269f40270f7ecd/artifacts
+end_time: 1734263129573
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: dd804160330647df9c269f40270f7ecd
+run_name: mysterious-jay-304
+run_uuid: dd804160330647df9c269f40270f7ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263129375
+status: 3
+tags: []
+user_id: abdulrafay

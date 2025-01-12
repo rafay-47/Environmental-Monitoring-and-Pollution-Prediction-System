@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/38558a2ae1d84f5dbda365144106d3c3/artifacts
+end_time: 1734264355808
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 38558a2ae1d84f5dbda365144106d3c3
+run_name: hilarious-wasp-24
+run_uuid: 38558a2ae1d84f5dbda365144106d3c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264355737
+status: 3
+tags: []
+user_id: abdulrafay

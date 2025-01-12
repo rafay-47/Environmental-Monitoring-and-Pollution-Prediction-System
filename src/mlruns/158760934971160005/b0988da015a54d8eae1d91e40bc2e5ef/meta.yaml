@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b0988da015a54d8eae1d91e40bc2e5ef/artifacts
+end_time: 1734264635906
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b0988da015a54d8eae1d91e40bc2e5ef
+run_name: casual-grouse-77
+run_uuid: b0988da015a54d8eae1d91e40bc2e5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264635850
+status: 3
+tags: []
+user_id: abdulrafay

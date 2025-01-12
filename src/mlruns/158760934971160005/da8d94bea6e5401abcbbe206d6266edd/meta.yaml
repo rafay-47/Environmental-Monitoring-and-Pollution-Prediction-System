@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/da8d94bea6e5401abcbbe206d6266edd/artifacts
+end_time: 1734265126881
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: da8d94bea6e5401abcbbe206d6266edd
+run_name: unleashed-gnu-71
+run_uuid: da8d94bea6e5401abcbbe206d6266edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265126831
+status: 3
+tags: []
+user_id: abdulrafay

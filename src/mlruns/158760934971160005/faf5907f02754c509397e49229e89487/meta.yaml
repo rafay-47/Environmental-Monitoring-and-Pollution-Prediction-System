@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/faf5907f02754c509397e49229e89487/artifacts
+end_time: 1734257140165
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: faf5907f02754c509397e49229e89487
+run_name: grandiose-perch-616
+run_uuid: faf5907f02754c509397e49229e89487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257140108
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/326be66a1603493bb3f917885d0a5ff0/artifacts
+end_time: 1734265118364
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 326be66a1603493bb3f917885d0a5ff0
+run_name: omniscient-ox-36
+run_uuid: 326be66a1603493bb3f917885d0a5ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265118277
+status: 3
+tags: []
+user_id: abdulrafay

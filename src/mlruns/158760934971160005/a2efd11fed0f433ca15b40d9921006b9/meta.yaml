@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a2efd11fed0f433ca15b40d9921006b9/artifacts
+end_time: 1734257135629
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a2efd11fed0f433ca15b40d9921006b9
+run_name: fearless-snake-403
+run_uuid: a2efd11fed0f433ca15b40d9921006b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257135497
+status: 3
+tags: []
+user_id: abdulrafay

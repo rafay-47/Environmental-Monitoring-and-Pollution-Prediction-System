@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f8601b47235d456993dafcf7ce18a934/artifacts
+end_time: 1734263865264
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f8601b47235d456993dafcf7ce18a934
+run_name: bold-fawn-791
+run_uuid: f8601b47235d456993dafcf7ce18a934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865243
+status: 3
+tags: []
+user_id: abdulrafay

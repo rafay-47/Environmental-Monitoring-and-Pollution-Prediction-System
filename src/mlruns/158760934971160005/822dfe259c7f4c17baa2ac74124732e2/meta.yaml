@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/822dfe259c7f4c17baa2ac74124732e2/artifacts
+end_time: 1734264027752
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 822dfe259c7f4c17baa2ac74124732e2
+run_name: worried-fowl-533
+run_uuid: 822dfe259c7f4c17baa2ac74124732e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264027664
+status: 3
+tags: []
+user_id: abdulrafay

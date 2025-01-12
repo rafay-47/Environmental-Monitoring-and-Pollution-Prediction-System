@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ce3efa0077634bc38c74f6dd0416690c/artifacts
+end_time: 1734265119609
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ce3efa0077634bc38c74f6dd0416690c
+run_name: nimble-moose-316
+run_uuid: ce3efa0077634bc38c74f6dd0416690c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265119500
+status: 3
+tags: []
+user_id: abdulrafay

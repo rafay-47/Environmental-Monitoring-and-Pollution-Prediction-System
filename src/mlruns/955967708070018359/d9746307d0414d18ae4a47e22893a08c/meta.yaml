@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/955967708070018359/d9746307d0414d18ae4a47e22893a08c/artifacts
+end_time: 1734114677414
+entry_point_name: ''
+experiment_id: '955967708070018359'
+lifecycle_stage: active
+run_id: d9746307d0414d18ae4a47e22893a08c
+run_name: ARIMA
+run_uuid: d9746307d0414d18ae4a47e22893a08c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734114677372
+status: 3
+tags: []
+user_id: abdulrafay

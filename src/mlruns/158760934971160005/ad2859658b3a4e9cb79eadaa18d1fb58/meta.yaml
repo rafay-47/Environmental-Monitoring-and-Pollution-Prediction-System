@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ad2859658b3a4e9cb79eadaa18d1fb58/artifacts
+end_time: 1734257238509
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ad2859658b3a4e9cb79eadaa18d1fb58
+run_name: angry-donkey-35
+run_uuid: ad2859658b3a4e9cb79eadaa18d1fb58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257238359
+status: 3
+tags: []
+user_id: abdulrafay

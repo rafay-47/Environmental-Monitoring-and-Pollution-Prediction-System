@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2a0d281043164ae99715daa1dfd14f91/artifacts
+end_time: 1734261869238
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2a0d281043164ae99715daa1dfd14f91
+run_name: gregarious-smelt-187
+run_uuid: 2a0d281043164ae99715daa1dfd14f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261869148
+status: 3
+tags: []
+user_id: abdulrafay

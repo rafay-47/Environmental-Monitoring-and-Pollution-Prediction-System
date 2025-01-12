@@ -1,0 +1,1 @@
+Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).

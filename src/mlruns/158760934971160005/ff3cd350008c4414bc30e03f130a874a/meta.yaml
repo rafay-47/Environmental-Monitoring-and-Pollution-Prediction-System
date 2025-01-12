@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ff3cd350008c4414bc30e03f130a874a/artifacts
+end_time: 1734263865182
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ff3cd350008c4414bc30e03f130a874a
+run_name: adaptable-boar-86
+run_uuid: ff3cd350008c4414bc30e03f130a874a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865160
+status: 3
+tags: []
+user_id: abdulrafay

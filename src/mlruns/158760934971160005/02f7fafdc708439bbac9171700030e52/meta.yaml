@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/02f7fafdc708439bbac9171700030e52/artifacts
+end_time: 1734261592448
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 02f7fafdc708439bbac9171700030e52
+run_name: calm-zebra-440
+run_uuid: 02f7fafdc708439bbac9171700030e52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261592382
+status: 3
+tags: []
+user_id: abdulrafay

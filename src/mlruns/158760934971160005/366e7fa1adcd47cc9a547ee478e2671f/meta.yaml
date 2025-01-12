@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/366e7fa1adcd47cc9a547ee478e2671f/artifacts
+end_time: 1734261868146
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 366e7fa1adcd47cc9a547ee478e2671f
+run_name: tasteful-penguin-614
+run_uuid: 366e7fa1adcd47cc9a547ee478e2671f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261868079
+status: 3
+tags: []
+user_id: abdulrafay

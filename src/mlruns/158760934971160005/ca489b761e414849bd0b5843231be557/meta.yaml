@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ca489b761e414849bd0b5843231be557/artifacts
+end_time: 1734261873026
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ca489b761e414849bd0b5843231be557
+run_name: flawless-croc-759
+run_uuid: ca489b761e414849bd0b5843231be557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261872936
+status: 3
+tags: []
+user_id: abdulrafay

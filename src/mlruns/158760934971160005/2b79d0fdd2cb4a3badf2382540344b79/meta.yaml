@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2b79d0fdd2cb4a3badf2382540344b79/artifacts
+end_time: 1734264017885
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2b79d0fdd2cb4a3badf2382540344b79
+run_name: luxuriant-shrew-487
+run_uuid: 2b79d0fdd2cb4a3badf2382540344b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264017645
+status: 3
+tags: []
+user_id: abdulrafay

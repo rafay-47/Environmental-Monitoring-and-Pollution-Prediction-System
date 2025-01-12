@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6a28d7c31e1548f2897bb83ab082612d/artifacts
+end_time: 1734264017056
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6a28d7c31e1548f2897bb83ab082612d
+run_name: gaudy-koi-242
+run_uuid: 6a28d7c31e1548f2897bb83ab082612d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264016926
+status: 3
+tags: []
+user_id: abdulrafay

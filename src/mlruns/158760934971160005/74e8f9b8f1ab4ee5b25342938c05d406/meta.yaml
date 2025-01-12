@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/74e8f9b8f1ab4ee5b25342938c05d406/artifacts
+end_time: 1734264874033
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 74e8f9b8f1ab4ee5b25342938c05d406
+run_name: redolent-horse-752
+run_uuid: 74e8f9b8f1ab4ee5b25342938c05d406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264873958
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/67022923c4bf431e9790f4cf87b4bb7e/artifacts
+end_time: 1734264470730
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 67022923c4bf431e9790f4cf87b4bb7e
+run_name: sedate-turtle-53
+run_uuid: 67022923c4bf431e9790f4cf87b4bb7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264470615
+status: 3
+tags: []
+user_id: abdulrafay

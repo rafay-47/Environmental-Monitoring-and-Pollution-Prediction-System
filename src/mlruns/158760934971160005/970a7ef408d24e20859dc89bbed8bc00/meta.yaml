@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/970a7ef408d24e20859dc89bbed8bc00/artifacts
+end_time: 1734264874147
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 970a7ef408d24e20859dc89bbed8bc00
+run_name: abundant-lamb-497
+run_uuid: 970a7ef408d24e20859dc89bbed8bc00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264874039
+status: 3
+tags: []
+user_id: abdulrafay

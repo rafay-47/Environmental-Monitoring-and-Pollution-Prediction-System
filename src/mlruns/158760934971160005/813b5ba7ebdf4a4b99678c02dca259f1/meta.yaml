@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/813b5ba7ebdf4a4b99678c02dca259f1/artifacts
+end_time: 1734263865152
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 813b5ba7ebdf4a4b99678c02dca259f1
+run_name: unleashed-fowl-240
+run_uuid: 813b5ba7ebdf4a4b99678c02dca259f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865127
+status: 3
+tags: []
+user_id: abdulrafay

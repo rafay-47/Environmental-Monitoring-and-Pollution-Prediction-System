@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/18128d0259d44cc2ae85f204863e2458/artifacts
+end_time: 1734256952647
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 18128d0259d44cc2ae85f204863e2458
+run_name: smiling-lark-546
+run_uuid: 18128d0259d44cc2ae85f204863e2458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734256937978
+status: 3
+tags: []
+user_id: abdulrafay

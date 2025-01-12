@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c416f540907f402ab7798dd5adacc025/artifacts
+end_time: 1734263119084
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c416f540907f402ab7798dd5adacc025
+run_name: exultant-rat-144
+run_uuid: c416f540907f402ab7798dd5adacc025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263118941
+status: 3
+tags: []
+user_id: abdulrafay

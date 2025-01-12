@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/fbef88a1c1cf47718e9108d7d826be4c/artifacts
+end_time: 1734257234679
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: fbef88a1c1cf47718e9108d7d826be4c
+run_name: tasteful-hawk-591
+run_uuid: fbef88a1c1cf47718e9108d7d826be4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257234607
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f7644e7327124218a5f137779e9e8d6a/artifacts
+end_time: 1734257238357
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f7644e7327124218a5f137779e9e8d6a
+run_name: stately-stork-18
+run_uuid: f7644e7327124218a5f137779e9e8d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257238265
+status: 3
+tags: []
+user_id: abdulrafay

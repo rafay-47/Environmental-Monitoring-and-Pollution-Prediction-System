@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ee69431200cb4645ac53980dc6afee65/artifacts
+end_time: 1734264637546
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ee69431200cb4645ac53980dc6afee65
+run_name: carefree-conch-999
+run_uuid: ee69431200cb4645ac53980dc6afee65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264637435
+status: 3
+tags: []
+user_id: abdulrafay

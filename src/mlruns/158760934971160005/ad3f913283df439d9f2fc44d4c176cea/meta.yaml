@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ad3f913283df439d9f2fc44d4c176cea/artifacts
+end_time: 1734263944354
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ad3f913283df439d9f2fc44d4c176cea
+run_name: legendary-bee-903
+run_uuid: ad3f913283df439d9f2fc44d4c176cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263944240
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/75f83c6997964019bb32ed365fe95962/artifacts
+end_time: 1734263307881
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 75f83c6997964019bb32ed365fe95962
+run_name: mercurial-jay-150
+run_uuid: 75f83c6997964019bb32ed365fe95962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263307799
+status: 3
+tags: []
+user_id: abdulrafay

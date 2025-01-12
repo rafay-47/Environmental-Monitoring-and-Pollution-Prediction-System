@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6b7a57ee48d643a6b2d0d973ec6c6a42/artifacts
+end_time: 1734261873384
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6b7a57ee48d643a6b2d0d973ec6c6a42
+run_name: adaptable-dove-356
+run_uuid: 6b7a57ee48d643a6b2d0d973ec6c6a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261873291
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/cf4be7795b0148729b989c75c1acc75d/artifacts
+end_time: 1734263954694
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: cf4be7795b0148729b989c75c1acc75d
+run_name: dazzling-rat-198
+run_uuid: cf4be7795b0148729b989c75c1acc75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263954638
+status: 3
+tags: []
+user_id: abdulrafay

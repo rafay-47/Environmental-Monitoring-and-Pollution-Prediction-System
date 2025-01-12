@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/215454e0c54a444b88b0eed346f88955/artifacts
+end_time: 1734264475063
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 215454e0c54a444b88b0eed346f88955
+run_name: useful-frog-957
+run_uuid: 215454e0c54a444b88b0eed346f88955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264474997
+status: 3
+tags: []
+user_id: abdulrafay

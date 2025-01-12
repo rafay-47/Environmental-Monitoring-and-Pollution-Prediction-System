@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a25ee6165f57423eb858926d31a29a38/artifacts
+end_time: 1734264349913
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a25ee6165f57423eb858926d31a29a38
+run_name: unequaled-newt-292
+run_uuid: a25ee6165f57423eb858926d31a29a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349829
+status: 3
+tags: []
+user_id: abdulrafay

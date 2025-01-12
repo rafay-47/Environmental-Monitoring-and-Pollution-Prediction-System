@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7b67feddb09c4a6698fca86c2fc6a533/artifacts
+end_time: 1734263307423
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7b67feddb09c4a6698fca86c2fc6a533
+run_name: resilient-zebra-629
+run_uuid: 7b67feddb09c4a6698fca86c2fc6a533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263307297
+status: 3
+tags: []
+user_id: abdulrafay

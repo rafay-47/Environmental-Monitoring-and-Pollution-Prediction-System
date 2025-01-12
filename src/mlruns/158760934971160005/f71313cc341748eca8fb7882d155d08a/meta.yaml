@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f71313cc341748eca8fb7882d155d08a/artifacts
+end_time: 1734265123687
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f71313cc341748eca8fb7882d155d08a
+run_name: unleashed-fly-630
+run_uuid: f71313cc341748eca8fb7882d155d08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265123577
+status: 3
+tags: []
+user_id: abdulrafay

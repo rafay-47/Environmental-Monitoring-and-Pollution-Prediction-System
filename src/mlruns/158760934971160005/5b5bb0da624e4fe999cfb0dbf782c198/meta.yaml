@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/5b5bb0da624e4fe999cfb0dbf782c198/artifacts
+end_time: 1734264879594
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 5b5bb0da624e4fe999cfb0dbf782c198
+run_name: sincere-bird-226
+run_uuid: 5b5bb0da624e4fe999cfb0dbf782c198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264879493
+status: 3
+tags: []
+user_id: abdulrafay

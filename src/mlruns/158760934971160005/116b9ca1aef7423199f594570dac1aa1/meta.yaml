@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/116b9ca1aef7423199f594570dac1aa1/artifacts
+end_time: 1734264016406
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 116b9ca1aef7423199f594570dac1aa1
+run_name: suave-stork-869
+run_uuid: 116b9ca1aef7423199f594570dac1aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264016353
+status: 3
+tags: []
+user_id: abdulrafay

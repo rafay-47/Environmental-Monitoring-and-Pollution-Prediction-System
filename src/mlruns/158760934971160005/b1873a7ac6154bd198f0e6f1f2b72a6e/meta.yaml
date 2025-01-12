@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b1873a7ac6154bd198f0e6f1f2b72a6e/artifacts
+end_time: 1734264882277
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b1873a7ac6154bd198f0e6f1f2b72a6e
+run_name: fortunate-midge-974
+run_uuid: b1873a7ac6154bd198f0e6f1f2b72a6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264882196
+status: 3
+tags: []
+user_id: abdulrafay

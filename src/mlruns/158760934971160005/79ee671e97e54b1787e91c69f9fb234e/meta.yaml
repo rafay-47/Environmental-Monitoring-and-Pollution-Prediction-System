@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/79ee671e97e54b1787e91c69f9fb234e/artifacts
+end_time: 1734264879490
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 79ee671e97e54b1787e91c69f9fb234e
+run_name: traveling-moth-49
+run_uuid: 79ee671e97e54b1787e91c69f9fb234e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264879430
+status: 3
+tags: []
+user_id: abdulrafay

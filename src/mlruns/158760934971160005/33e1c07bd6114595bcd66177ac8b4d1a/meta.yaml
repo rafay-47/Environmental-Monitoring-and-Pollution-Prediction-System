@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/33e1c07bd6114595bcd66177ac8b4d1a/artifacts
+end_time: 1734263865235
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 33e1c07bd6114595bcd66177ac8b4d1a
+run_name: beautiful-moose-765
+run_uuid: 33e1c07bd6114595bcd66177ac8b4d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865214
+status: 3
+tags: []
+user_id: abdulrafay

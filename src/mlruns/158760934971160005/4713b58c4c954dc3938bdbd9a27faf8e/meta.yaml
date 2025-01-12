@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4713b58c4c954dc3938bdbd9a27faf8e/artifacts
+end_time: 1734257233989
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4713b58c4c954dc3938bdbd9a27faf8e
+run_name: puzzled-midge-308
+run_uuid: 4713b58c4c954dc3938bdbd9a27faf8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257233957
+status: 3
+tags: []
+user_id: abdulrafay

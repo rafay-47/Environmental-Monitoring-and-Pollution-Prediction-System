@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/11bc62b141ee4ba0950d438efccc9a47/artifacts
+end_time: 1734263943327
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 11bc62b141ee4ba0950d438efccc9a47
+run_name: traveling-zebra-883
+run_uuid: 11bc62b141ee4ba0950d438efccc9a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263943250
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/98ac34d955fb44a9b03779b565a1c500/artifacts
+end_time: 1734265127295
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 98ac34d955fb44a9b03779b565a1c500
+run_name: amusing-carp-556
+run_uuid: 98ac34d955fb44a9b03779b565a1c500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265127146
+status: 3
+tags: []
+user_id: abdulrafay

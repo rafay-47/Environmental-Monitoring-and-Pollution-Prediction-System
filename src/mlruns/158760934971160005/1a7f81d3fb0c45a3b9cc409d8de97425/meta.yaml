@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1a7f81d3fb0c45a3b9cc409d8de97425/artifacts
+end_time: 1734263864955
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1a7f81d3fb0c45a3b9cc409d8de97425
+run_name: treasured-pig-571
+run_uuid: 1a7f81d3fb0c45a3b9cc409d8de97425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263864929
+status: 3
+tags: []
+user_id: abdulrafay

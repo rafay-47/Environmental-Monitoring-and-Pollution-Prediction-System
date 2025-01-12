@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d9a7f56fee6942ffbf331fac2d58af5e/artifacts
+end_time: 1734263297798
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d9a7f56fee6942ffbf331fac2d58af5e
+run_name: rebellious-gull-741
+run_uuid: d9a7f56fee6942ffbf331fac2d58af5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263297725
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/235ddeba054f40b386b7b1580b08b5cd/artifacts
+end_time: 1734264632056
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 235ddeba054f40b386b7b1580b08b5cd
+run_name: grandiose-crow-227
+run_uuid: 235ddeba054f40b386b7b1580b08b5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264631966
+status: 3
+tags: []
+user_id: abdulrafay

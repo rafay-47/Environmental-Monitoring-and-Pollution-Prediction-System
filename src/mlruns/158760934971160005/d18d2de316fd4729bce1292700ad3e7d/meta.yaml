@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d18d2de316fd4729bce1292700ad3e7d/artifacts
+end_time: 1734265126827
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d18d2de316fd4729bce1292700ad3e7d
+run_name: bedecked-cow-846
+run_uuid: d18d2de316fd4729bce1292700ad3e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265126746
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/92624bc6ca0048af9bdfa6e61f7e22aa/artifacts
+end_time: 1734264632711
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 92624bc6ca0048af9bdfa6e61f7e22aa
+run_name: efficient-shrew-562
+run_uuid: 92624bc6ca0048af9bdfa6e61f7e22aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264632609
+status: 3
+tags: []
+user_id: abdulrafay

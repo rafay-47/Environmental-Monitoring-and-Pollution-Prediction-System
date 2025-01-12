@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2e38b251431d42c99f9706003f18e7fb/artifacts
+end_time: 1734263303639
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2e38b251431d42c99f9706003f18e7fb
+run_name: fortunate-jay-564
+run_uuid: 2e38b251431d42c99f9706003f18e7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263303558
+status: 3
+tags: []
+user_id: abdulrafay

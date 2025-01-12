@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4d1e415a23b24cd6927d76d0ba4be345/artifacts
+end_time: 1734264474319
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4d1e415a23b24cd6927d76d0ba4be345
+run_name: mercurial-asp-776
+run_uuid: 4d1e415a23b24cd6927d76d0ba4be345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264474244
+status: 3
+tags: []
+user_id: abdulrafay

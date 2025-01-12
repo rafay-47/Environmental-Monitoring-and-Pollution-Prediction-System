@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f9947653fc4943b6acd444be60197a0a/artifacts
+end_time: 1734264637733
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f9947653fc4943b6acd444be60197a0a
+run_name: defiant-crow-18
+run_uuid: f9947653fc4943b6acd444be60197a0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264637550
+status: 3
+tags: []
+user_id: abdulrafay

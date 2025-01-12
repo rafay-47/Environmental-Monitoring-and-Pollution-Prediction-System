@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/955967708070018359/9e56fb67626b4a1ca251642d60beee9c/artifacts
+end_time: 1734095959107
+entry_point_name: ''
+experiment_id: '955967708070018359'
+lifecycle_stage: active
+run_id: 9e56fb67626b4a1ca251642d60beee9c
+run_name: lstm_regression
+run_uuid: 9e56fb67626b4a1ca251642d60beee9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734095959087
+status: 4
+tags: []
+user_id: abdulrafay

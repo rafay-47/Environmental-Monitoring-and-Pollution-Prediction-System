@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c60422a958684fc8bd2acd762c1b5f6b/artifacts
+end_time: 1734261876144
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c60422a958684fc8bd2acd762c1b5f6b
+run_name: useful-mink-764
+run_uuid: c60422a958684fc8bd2acd762c1b5f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261876093
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1b297f96729644f187d3453b51fba047/artifacts
+end_time: 1734264883727
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1b297f96729644f187d3453b51fba047
+run_name: gentle-calf-89
+run_uuid: 1b297f96729644f187d3453b51fba047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264883648
+status: 3
+tags: []
+user_id: abdulrafay

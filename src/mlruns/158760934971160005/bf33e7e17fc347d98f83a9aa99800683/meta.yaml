@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/bf33e7e17fc347d98f83a9aa99800683/artifacts
+end_time: 1734261868432
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: bf33e7e17fc347d98f83a9aa99800683
+run_name: gentle-bird-105
+run_uuid: bf33e7e17fc347d98f83a9aa99800683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261868373
+status: 3
+tags: []
+user_id: abdulrafay

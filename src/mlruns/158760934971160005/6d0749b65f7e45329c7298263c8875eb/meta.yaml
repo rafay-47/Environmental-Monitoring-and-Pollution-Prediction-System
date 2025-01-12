@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6d0749b65f7e45329c7298263c8875eb/artifacts
+end_time: 1734264637429
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6d0749b65f7e45329c7298263c8875eb
+run_name: orderly-snipe-72
+run_uuid: 6d0749b65f7e45329c7298263c8875eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264637345
+status: 3
+tags: []
+user_id: abdulrafay

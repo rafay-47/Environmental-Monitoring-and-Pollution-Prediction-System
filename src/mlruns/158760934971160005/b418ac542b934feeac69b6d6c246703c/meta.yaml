@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b418ac542b934feeac69b6d6c246703c/artifacts
+end_time: 1734261868556
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b418ac542b934feeac69b6d6c246703c
+run_name: glamorous-roo-230
+run_uuid: b418ac542b934feeac69b6d6c246703c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261868510
+status: 3
+tags: []
+user_id: abdulrafay

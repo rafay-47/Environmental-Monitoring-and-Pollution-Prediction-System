@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f6c7916b3b134ab88a01a6500ffbacce/artifacts
+end_time: 1734264475561
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f6c7916b3b134ab88a01a6500ffbacce
+run_name: clean-swan-557
+run_uuid: f6c7916b3b134ab88a01a6500ffbacce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264475458
+status: 3
+tags: []
+user_id: abdulrafay

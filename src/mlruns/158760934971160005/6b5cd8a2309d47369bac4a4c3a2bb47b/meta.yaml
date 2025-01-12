@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6b5cd8a2309d47369bac4a4c3a2bb47b/artifacts
+end_time: 1734263124742
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6b5cd8a2309d47369bac4a4c3a2bb47b
+run_name: placid-carp-220
+run_uuid: 6b5cd8a2309d47369bac4a4c3a2bb47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263124672
+status: 3
+tags: []
+user_id: abdulrafay

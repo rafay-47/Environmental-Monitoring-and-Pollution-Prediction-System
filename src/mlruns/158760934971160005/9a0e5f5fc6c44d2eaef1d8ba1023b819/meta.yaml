@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9a0e5f5fc6c44d2eaef1d8ba1023b819/artifacts
+end_time: 1734264878910
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9a0e5f5fc6c44d2eaef1d8ba1023b819
+run_name: sincere-panda-4
+run_uuid: 9a0e5f5fc6c44d2eaef1d8ba1023b819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264878784
+status: 3
+tags: []
+user_id: abdulrafay

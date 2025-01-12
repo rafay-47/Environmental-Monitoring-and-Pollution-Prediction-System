@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/eb049a97b28741c5bbe22c2ed53b3385/artifacts
+end_time: 1734261869096
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: eb049a97b28741c5bbe22c2ed53b3385
+run_name: colorful-mare-595
+run_uuid: eb049a97b28741c5bbe22c2ed53b3385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261868914
+status: 3
+tags: []
+user_id: abdulrafay

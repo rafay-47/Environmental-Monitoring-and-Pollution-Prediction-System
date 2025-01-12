@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b2570e4771d640a6ab75c6195dc10187/artifacts
+end_time: 1734264476721
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b2570e4771d640a6ab75c6195dc10187
+run_name: puzzled-lamb-384
+run_uuid: b2570e4771d640a6ab75c6195dc10187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264476463
+status: 3
+tags: []
+user_id: abdulrafay

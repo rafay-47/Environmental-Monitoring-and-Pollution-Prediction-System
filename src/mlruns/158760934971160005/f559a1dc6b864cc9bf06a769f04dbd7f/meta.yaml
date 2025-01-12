@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f559a1dc6b864cc9bf06a769f04dbd7f/artifacts
+end_time: 1734261597079
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f559a1dc6b864cc9bf06a769f04dbd7f
+run_name: crawling-mouse-189
+run_uuid: f559a1dc6b864cc9bf06a769f04dbd7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261596813
+status: 3
+tags: []
+user_id: abdulrafay

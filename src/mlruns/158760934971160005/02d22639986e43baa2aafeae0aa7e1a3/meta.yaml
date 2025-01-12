@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/02d22639986e43baa2aafeae0aa7e1a3/artifacts
+end_time: 1734263865123
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 02d22639986e43baa2aafeae0aa7e1a3
+run_name: worried-sloth-354
+run_uuid: 02d22639986e43baa2aafeae0aa7e1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865100
+status: 3
+tags: []
+user_id: abdulrafay

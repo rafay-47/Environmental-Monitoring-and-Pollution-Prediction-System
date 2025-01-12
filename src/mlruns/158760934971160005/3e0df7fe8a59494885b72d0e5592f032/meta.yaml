@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3e0df7fe8a59494885b72d0e5592f032/artifacts
+end_time: 1734263297350
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3e0df7fe8a59494885b72d0e5592f032
+run_name: orderly-owl-63
+run_uuid: 3e0df7fe8a59494885b72d0e5592f032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263297274
+status: 3
+tags: []
+user_id: abdulrafay

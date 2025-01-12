@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/27485bc2ccbf4888985e0e466885e401/artifacts
+end_time: 1734263949877
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 27485bc2ccbf4888985e0e466885e401
+run_name: powerful-yak-601
+run_uuid: 27485bc2ccbf4888985e0e466885e401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263949801
+status: 3
+tags: []
+user_id: abdulrafay

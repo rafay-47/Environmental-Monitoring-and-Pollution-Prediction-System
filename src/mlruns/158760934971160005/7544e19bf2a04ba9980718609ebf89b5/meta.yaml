@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7544e19bf2a04ba9980718609ebf89b5/artifacts
+end_time: 1734257238177
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7544e19bf2a04ba9980718609ebf89b5
+run_name: efficient-chimp-763
+run_uuid: 7544e19bf2a04ba9980718609ebf89b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257238098
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/dd147eb72b104628b33f198d5f065c65/artifacts
+end_time: 1734263949585
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: dd147eb72b104628b33f198d5f065c65
+run_name: nimble-squid-810
+run_uuid: dd147eb72b104628b33f198d5f065c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263949505
+status: 3
+tags: []
+user_id: abdulrafay

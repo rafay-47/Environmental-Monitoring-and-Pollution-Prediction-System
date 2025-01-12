@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2f3093df3a854fd1853ba8f52dd94bcd/artifacts
+end_time: 1734261584999
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2f3093df3a854fd1853ba8f52dd94bcd
+run_name: painted-boar-638
+run_uuid: 2f3093df3a854fd1853ba8f52dd94bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261584958
+status: 3
+tags: []
+user_id: abdulrafay

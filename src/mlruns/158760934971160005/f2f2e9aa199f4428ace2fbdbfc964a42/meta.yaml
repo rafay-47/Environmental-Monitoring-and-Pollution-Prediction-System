@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f2f2e9aa199f4428ace2fbdbfc964a42/artifacts
+end_time: 1734261585433
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f2f2e9aa199f4428ace2fbdbfc964a42
+run_name: overjoyed-newt-909
+run_uuid: f2f2e9aa199f4428ace2fbdbfc964a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261585382
+status: 3
+tags: []
+user_id: abdulrafay

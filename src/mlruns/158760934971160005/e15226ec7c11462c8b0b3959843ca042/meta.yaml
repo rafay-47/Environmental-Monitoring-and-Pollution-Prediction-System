@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e15226ec7c11462c8b0b3959843ca042/artifacts
+end_time: 1734263129365
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e15226ec7c11462c8b0b3959843ca042
+run_name: inquisitive-hawk-343
+run_uuid: e15226ec7c11462c8b0b3959843ca042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263129270
+status: 3
+tags: []
+user_id: abdulrafay

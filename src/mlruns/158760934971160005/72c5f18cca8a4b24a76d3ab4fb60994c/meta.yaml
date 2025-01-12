@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/72c5f18cca8a4b24a76d3ab4fb60994c/artifacts
+end_time: 1734263949956
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 72c5f18cca8a4b24a76d3ab4fb60994c
+run_name: dapper-calf-991
+run_uuid: 72c5f18cca8a4b24a76d3ab4fb60994c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263949882
+status: 3
+tags: []
+user_id: abdulrafay

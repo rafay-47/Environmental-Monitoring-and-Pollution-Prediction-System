@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9a70a8b73dfc405684d2b1a02cb32583/artifacts
+end_time: 1734264029441
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9a70a8b73dfc405684d2b1a02cb32583
+run_name: invincible-ox-141
+run_uuid: 9a70a8b73dfc405684d2b1a02cb32583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264029132
+status: 3
+tags: []
+user_id: abdulrafay

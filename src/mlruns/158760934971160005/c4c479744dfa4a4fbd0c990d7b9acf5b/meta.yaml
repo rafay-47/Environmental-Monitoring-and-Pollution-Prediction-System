@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c4c479744dfa4a4fbd0c990d7b9acf5b/artifacts
+end_time: 1734257229787
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c4c479744dfa4a4fbd0c990d7b9acf5b
+run_name: clean-grouse-416
+run_uuid: c4c479744dfa4a4fbd0c990d7b9acf5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257229734
+status: 3
+tags: []
+user_id: abdulrafay

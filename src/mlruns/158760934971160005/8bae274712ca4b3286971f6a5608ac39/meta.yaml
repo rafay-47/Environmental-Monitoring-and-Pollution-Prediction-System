@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/8bae274712ca4b3286971f6a5608ac39/artifacts
+end_time: 1734263757841
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 8bae274712ca4b3286971f6a5608ac39
+run_name: sassy-elk-942
+run_uuid: 8bae274712ca4b3286971f6a5608ac39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263757813
+status: 3
+tags: []
+user_id: abdulrafay

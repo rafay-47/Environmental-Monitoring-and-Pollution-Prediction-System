@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2dec4cd45913493fad81095828e9cd8f/artifacts
+end_time: 1734261868328
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2dec4cd45913493fad81095828e9cd8f
+run_name: gifted-lamb-388
+run_uuid: 2dec4cd45913493fad81095828e9cd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261868251
+status: 3
+tags: []
+user_id: abdulrafay

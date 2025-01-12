@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3432412b72f04e64971fa9c348d2ad0d/artifacts
+end_time: 1734257135840
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3432412b72f04e64971fa9c348d2ad0d
+run_name: fearless-wasp-416
+run_uuid: 3432412b72f04e64971fa9c348d2ad0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257135768
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/29a105ef55ae4e0994a532ab50cb559e/artifacts
+end_time: 1734264017130
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 29a105ef55ae4e0994a532ab50cb559e
+run_name: stately-roo-566
+run_uuid: 29a105ef55ae4e0994a532ab50cb559e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264017060
+status: 3
+tags: []
+user_id: abdulrafay

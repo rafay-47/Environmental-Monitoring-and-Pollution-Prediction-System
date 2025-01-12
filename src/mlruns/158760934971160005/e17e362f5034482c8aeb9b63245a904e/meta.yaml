@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e17e362f5034482c8aeb9b63245a904e/artifacts
+end_time: 1734261584778
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e17e362f5034482c8aeb9b63245a904e
+run_name: gentle-turtle-516
+run_uuid: e17e362f5034482c8aeb9b63245a904e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261584742
+status: 3
+tags: []
+user_id: abdulrafay

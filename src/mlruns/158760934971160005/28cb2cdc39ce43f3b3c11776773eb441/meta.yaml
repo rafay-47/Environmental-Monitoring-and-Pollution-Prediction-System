@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/28cb2cdc39ce43f3b3c11776773eb441/artifacts
+end_time: 1734264632603
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 28cb2cdc39ce43f3b3c11776773eb441
+run_name: bedecked-tern-253
+run_uuid: 28cb2cdc39ce43f3b3c11776773eb441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264632521
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/93b46d5d50094e6bb6da577729126623/artifacts
+end_time: 1734261872869
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 93b46d5d50094e6bb6da577729126623
+run_name: sneaky-hare-830
+run_uuid: 93b46d5d50094e6bb6da577729126623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261872753
+status: 3
+tags: []
+user_id: abdulrafay

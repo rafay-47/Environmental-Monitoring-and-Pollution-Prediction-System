@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9b73bb4f4b2b4f48a50c45011f069f18/artifacts
+end_time: 1734264349421
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9b73bb4f4b2b4f48a50c45011f069f18
+run_name: whimsical-eel-119
+run_uuid: 9b73bb4f4b2b4f48a50c45011f069f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349358
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/745208cece27427791f83e78e5f7bcff/artifacts
+end_time: 1734257044864
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 745208cece27427791f83e78e5f7bcff
+run_name: secretive-eel-891
+run_uuid: 745208cece27427791f83e78e5f7bcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257033772
+status: 3
+tags: []
+user_id: abdulrafay

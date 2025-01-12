@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9dd9315b98974f09b5cb5c4764256650/artifacts
+end_time: 1734264476214
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9dd9315b98974f09b5cb5c4764256650
+run_name: casual-swan-205
+run_uuid: 9dd9315b98974f09b5cb5c4764256650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264476077
+status: 3
+tags: []
+user_id: abdulrafay

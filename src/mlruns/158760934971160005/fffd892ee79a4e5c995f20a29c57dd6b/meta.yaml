@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/fffd892ee79a4e5c995f20a29c57dd6b/artifacts
+end_time: 1734261876260
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: fffd892ee79a4e5c995f20a29c57dd6b
+run_name: agreeable-kite-214
+run_uuid: fffd892ee79a4e5c995f20a29c57dd6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261876225
+status: 3
+tags: []
+user_id: abdulrafay

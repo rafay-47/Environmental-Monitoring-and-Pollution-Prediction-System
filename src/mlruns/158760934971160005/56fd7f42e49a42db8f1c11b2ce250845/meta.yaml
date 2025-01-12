@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/56fd7f42e49a42db8f1c11b2ce250845/artifacts
+end_time: 1734265119188
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 56fd7f42e49a42db8f1c11b2ce250845
+run_name: languid-grouse-567
+run_uuid: 56fd7f42e49a42db8f1c11b2ce250845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265119026
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a1e3eb6d974c4acc9b2df4d1b8468e87/artifacts
+end_time: 1734261869146
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a1e3eb6d974c4acc9b2df4d1b8468e87
+run_name: glamorous-bass-829
+run_uuid: a1e3eb6d974c4acc9b2df4d1b8468e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261869100
+status: 3
+tags: []
+user_id: abdulrafay

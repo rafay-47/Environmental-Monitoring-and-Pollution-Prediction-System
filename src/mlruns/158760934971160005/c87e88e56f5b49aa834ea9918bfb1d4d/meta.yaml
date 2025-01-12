@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c87e88e56f5b49aa834ea9918bfb1d4d/artifacts
+end_time: 1734264631793
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c87e88e56f5b49aa834ea9918bfb1d4d
+run_name: delightful-wolf-697
+run_uuid: c87e88e56f5b49aa834ea9918bfb1d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264631747
+status: 3
+tags: []
+user_id: abdulrafay

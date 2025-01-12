@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/25bbbc92c5eb49c988e9a9115d29ec00/artifacts
+end_time: 1734263305127
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 25bbbc92c5eb49c988e9a9115d29ec00
+run_name: burly-goose-382
+run_uuid: 25bbbc92c5eb49c988e9a9115d29ec00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263304952
+status: 3
+tags: []
+user_id: abdulrafay

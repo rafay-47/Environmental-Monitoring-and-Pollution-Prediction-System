@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/05830ee5fd0b4b19af071611d35b9d89/artifacts
+end_time: 1734257141294
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 05830ee5fd0b4b19af071611d35b9d89
+run_name: legendary-deer-335
+run_uuid: 05830ee5fd0b4b19af071611d35b9d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257141105
+status: 3
+tags: []
+user_id: abdulrafay

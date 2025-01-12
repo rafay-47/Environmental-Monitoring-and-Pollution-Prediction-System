@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c6ce8cb67e274e47a52b4974a4161b2b/artifacts
+end_time: 1734257144468
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c6ce8cb67e274e47a52b4974a4161b2b
+run_name: serious-kite-858
+run_uuid: c6ce8cb67e274e47a52b4974a4161b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257144392
+status: 3
+tags: []
+user_id: abdulrafay

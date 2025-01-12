@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/13bf47cf47474194a7b0ead935daaa39/artifacts
+end_time: 1734265128942
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 13bf47cf47474194a7b0ead935daaa39
+run_name: kindly-quail-480
+run_uuid: 13bf47cf47474194a7b0ead935daaa39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265128839
+status: 3
+tags: []
+user_id: abdulrafay

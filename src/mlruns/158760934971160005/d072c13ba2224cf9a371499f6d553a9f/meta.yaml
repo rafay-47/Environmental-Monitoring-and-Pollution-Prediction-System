@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d072c13ba2224cf9a371499f6d553a9f/artifacts
+end_time: 1734263303369
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d072c13ba2224cf9a371499f6d553a9f
+run_name: valuable-wasp-24
+run_uuid: d072c13ba2224cf9a371499f6d553a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263303330
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6d6803fd91564e9fb685ef6f5a4efc17/artifacts
+end_time: 1734263304861
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6d6803fd91564e9fb685ef6f5a4efc17
+run_name: debonair-deer-583
+run_uuid: 6d6803fd91564e9fb685ef6f5a4efc17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263304811
+status: 3
+tags: []
+user_id: abdulrafay

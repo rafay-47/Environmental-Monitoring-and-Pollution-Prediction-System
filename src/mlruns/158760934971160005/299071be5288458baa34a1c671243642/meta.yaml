@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/299071be5288458baa34a1c671243642/artifacts
+end_time: 1734264358108
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 299071be5288458baa34a1c671243642
+run_name: thoughtful-worm-573
+run_uuid: 299071be5288458baa34a1c671243642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264358015
+status: 3
+tags: []
+user_id: abdulrafay

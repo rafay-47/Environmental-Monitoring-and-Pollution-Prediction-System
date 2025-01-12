@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6bb9e820bac44ff39c061c6f3c427ed6/artifacts
+end_time: 1734264016555
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6bb9e820bac44ff39c061c6f3c427ed6
+run_name: defiant-slug-19
+run_uuid: 6bb9e820bac44ff39c061c6f3c427ed6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264016488
+status: 3
+tags: []
+user_id: abdulrafay

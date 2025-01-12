@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b512759a5a11460189535083b630744e/artifacts
+end_time: 1734261598083
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b512759a5a11460189535083b630744e
+run_name: bustling-sponge-440
+run_uuid: b512759a5a11460189535083b630744e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261597866
+status: 3
+tags: []
+user_id: abdulrafay

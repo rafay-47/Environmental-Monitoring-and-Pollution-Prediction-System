@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4298254de5c4449691b4fb6adaced121/artifacts
+end_time: 1734257140992
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4298254de5c4449691b4fb6adaced121
+run_name: sincere-donkey-945
+run_uuid: 4298254de5c4449691b4fb6adaced121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257140874
+status: 3
+tags: []
+user_id: abdulrafay

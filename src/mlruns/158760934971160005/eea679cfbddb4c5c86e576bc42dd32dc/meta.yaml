@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/eea679cfbddb4c5c86e576bc42dd32dc/artifacts
+end_time: 1734257230419
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: eea679cfbddb4c5c86e576bc42dd32dc
+run_name: fun-whale-22
+run_uuid: eea679cfbddb4c5c86e576bc42dd32dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257230285
+status: 3
+tags: []
+user_id: abdulrafay

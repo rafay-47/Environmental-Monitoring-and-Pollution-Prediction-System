@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4c0076a89bfa4a568e0975d8b0df4072/artifacts
+end_time: 1734265124805
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4c0076a89bfa4a568e0975d8b0df4072
+run_name: righteous-snipe-243
+run_uuid: 4c0076a89bfa4a568e0975d8b0df4072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265124589
+status: 3
+tags: []
+user_id: abdulrafay

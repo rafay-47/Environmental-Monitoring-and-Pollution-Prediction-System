@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3e4c175c3004468481b56d340976cf81/artifacts
+end_time: 1734264633059
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3e4c175c3004468481b56d340976cf81
+run_name: vaunted-fowl-565
+run_uuid: 3e4c175c3004468481b56d340976cf81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264632930
+status: 3
+tags: []
+user_id: abdulrafay

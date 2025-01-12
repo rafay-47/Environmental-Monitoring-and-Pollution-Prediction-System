@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f04d0d30d57d4f238df4c7d3f07efe65/artifacts
+end_time: 1734257238094
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f04d0d30d57d4f238df4c7d3f07efe65
+run_name: wistful-skunk-623
+run_uuid: f04d0d30d57d4f238df4c7d3f07efe65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257238044
+status: 3
+tags: []
+user_id: abdulrafay

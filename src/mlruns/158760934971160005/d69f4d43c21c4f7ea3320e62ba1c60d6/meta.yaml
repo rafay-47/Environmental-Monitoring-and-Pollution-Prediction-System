@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d69f4d43c21c4f7ea3320e62ba1c60d6/artifacts
+end_time: 1734261877281
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d69f4d43c21c4f7ea3320e62ba1c60d6
+run_name: bedecked-pug-261
+run_uuid: d69f4d43c21c4f7ea3320e62ba1c60d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261877193
+status: 3
+tags: []
+user_id: abdulrafay

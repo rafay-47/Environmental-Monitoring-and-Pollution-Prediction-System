@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d607840d520848e9b03b1cf9df21908d/artifacts
+end_time: 1734263307471
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d607840d520848e9b03b1cf9df21908d
+run_name: entertaining-ram-360
+run_uuid: d607840d520848e9b03b1cf9df21908d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263307427
+status: 3
+tags: []
+user_id: abdulrafay

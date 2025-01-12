@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9fc020ef4e60481baeea1a12c4dff6dd/artifacts
+end_time: 1734261876500
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9fc020ef4e60481baeea1a12c4dff6dd
+run_name: blushing-elk-125
+run_uuid: 9fc020ef4e60481baeea1a12c4dff6dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261876432
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7ef93e4f5ec946cfa35c1dd433a7418d/artifacts
+end_time: 1734261592379
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7ef93e4f5ec946cfa35c1dd433a7418d
+run_name: nimble-fowl-831
+run_uuid: 7ef93e4f5ec946cfa35c1dd433a7418d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261592339
+status: 3
+tags: []
+user_id: abdulrafay

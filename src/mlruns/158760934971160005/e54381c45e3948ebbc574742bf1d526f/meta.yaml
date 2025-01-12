@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e54381c45e3948ebbc574742bf1d526f/artifacts
+end_time: 1734264023347
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e54381c45e3948ebbc574742bf1d526f
+run_name: intrigued-hen-944
+run_uuid: e54381c45e3948ebbc574742bf1d526f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264023307
+status: 3
+tags: []
+user_id: abdulrafay

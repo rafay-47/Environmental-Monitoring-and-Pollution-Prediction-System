@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/731bdeb2d2cc4cd9855bc1c98daf3eaf/artifacts
+end_time: 1734264881845
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 731bdeb2d2cc4cd9855bc1c98daf3eaf
+run_name: thundering-shoat-651
+run_uuid: 731bdeb2d2cc4cd9855bc1c98daf3eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264881770
+status: 3
+tags: []
+user_id: abdulrafay

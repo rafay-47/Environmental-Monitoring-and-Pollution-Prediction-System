@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/135c99dac31641958607ab38ba472218/artifacts
+end_time: 1734263118875
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 135c99dac31641958607ab38ba472218
+run_name: nervous-fowl-784
+run_uuid: 135c99dac31641958607ab38ba472218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263118609
+status: 3
+tags: []
+user_id: abdulrafay

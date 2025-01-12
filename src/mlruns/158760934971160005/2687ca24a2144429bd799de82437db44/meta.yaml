@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2687ca24a2144429bd799de82437db44/artifacts
+end_time: 1734263757145
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2687ca24a2144429bd799de82437db44
+run_name: respected-mink-287
+run_uuid: 2687ca24a2144429bd799de82437db44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263757123
+status: 3
+tags: []
+user_id: abdulrafay

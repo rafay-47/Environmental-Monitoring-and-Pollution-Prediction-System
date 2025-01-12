@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/54a74d16b8df48568b5971d1ae960a81/artifacts
+end_time: 1734261592909
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 54a74d16b8df48568b5971d1ae960a81
+run_name: luxuriant-mouse-965
+run_uuid: 54a74d16b8df48568b5971d1ae960a81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261592848
+status: 3
+tags: []
+user_id: abdulrafay

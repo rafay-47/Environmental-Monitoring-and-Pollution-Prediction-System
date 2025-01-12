@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/140659f21e9a48668eff1d6a5063d296/artifacts
+end_time: 1734263124532
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 140659f21e9a48668eff1d6a5063d296
+run_name: adaptable-bear-172
+run_uuid: 140659f21e9a48668eff1d6a5063d296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263124478
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/05a83f508924469b82ba6f0272c75d52/artifacts
+end_time: 1734264349355
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 05a83f508924469b82ba6f0272c75d52
+run_name: bald-midge-933
+run_uuid: 05a83f508924469b82ba6f0272c75d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349288
+status: 3
+tags: []
+user_id: abdulrafay

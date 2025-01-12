@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/138f0d814ea34ee6be15f540045e69ce/artifacts
+end_time: 1734264023981
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 138f0d814ea34ee6be15f540045e69ce
+run_name: angry-fox-722
+run_uuid: 138f0d814ea34ee6be15f540045e69ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264023898
+status: 3
+tags: []
+user_id: abdulrafay

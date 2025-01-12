@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c9ce4a841eed42b6ac9139a8a1edb11e/artifacts
+end_time: 1734261597349
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c9ce4a841eed42b6ac9139a8a1edb11e
+run_name: skittish-ape-327
+run_uuid: c9ce4a841eed42b6ac9139a8a1edb11e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261597234
+status: 3
+tags: []
+user_id: abdulrafay

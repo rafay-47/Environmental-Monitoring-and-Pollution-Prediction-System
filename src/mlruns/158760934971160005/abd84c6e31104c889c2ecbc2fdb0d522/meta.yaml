@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/abd84c6e31104c889c2ecbc2fdb0d522/artifacts
+end_time: 1734264358166
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: abd84c6e31104c889c2ecbc2fdb0d522
+run_name: learned-sheep-514
+run_uuid: abd84c6e31104c889c2ecbc2fdb0d522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264358114
+status: 3
+tags: []
+user_id: abdulrafay

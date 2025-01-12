@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e948e625c1964f9a9e6dcf1d1e837be3/artifacts
+end_time: 1734264349823
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e948e625c1964f9a9e6dcf1d1e837be3
+run_name: victorious-doe-513
+run_uuid: e948e625c1964f9a9e6dcf1d1e837be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349687
+status: 3
+tags: []
+user_id: abdulrafay

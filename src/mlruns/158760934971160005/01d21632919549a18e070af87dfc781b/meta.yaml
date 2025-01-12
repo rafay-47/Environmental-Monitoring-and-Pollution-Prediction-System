@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/01d21632919549a18e070af87dfc781b/artifacts
+end_time: 1734160155035
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 01d21632919549a18e070af87dfc781b
+run_name: handsome-skink-25
+run_uuid: 01d21632919549a18e070af87dfc781b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734160151236
+status: 3
+tags: []
+user_id: abdulrafay

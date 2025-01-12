@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/74896637e7f345ff8382ea219482c5c9/artifacts
+end_time: 1734261584853
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 74896637e7f345ff8382ea219482c5c9
+run_name: marvelous-ray-319
+run_uuid: 74896637e7f345ff8382ea219482c5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261584781
+status: 3
+tags: []
+user_id: abdulrafay

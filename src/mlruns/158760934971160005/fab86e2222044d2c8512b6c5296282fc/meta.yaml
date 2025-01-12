@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/fab86e2222044d2c8512b6c5296282fc/artifacts
+end_time: 1734265126683
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: fab86e2222044d2c8512b6c5296282fc
+run_name: unequaled-gull-519
+run_uuid: fab86e2222044d2c8512b6c5296282fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265126624
+status: 3
+tags: []
+user_id: abdulrafay

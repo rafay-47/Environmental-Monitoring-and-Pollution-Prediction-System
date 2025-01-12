@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/955967708070018359/bc47ad354f1945a28f133b2a3c2a9012/artifacts
+end_time: 1734089818789
+entry_point_name: ''
+experiment_id: '955967708070018359'
+lifecycle_stage: active
+run_id: bc47ad354f1945a28f133b2a3c2a9012
+run_name: random_forest
+run_uuid: bc47ad354f1945a28f133b2a3c2a9012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734089801483
+status: 3
+tags: []
+user_id: abdulrafay

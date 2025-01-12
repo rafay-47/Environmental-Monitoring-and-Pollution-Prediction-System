@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7532172a652c401e806895f5f9469bac/artifacts
+end_time: 1734261592337
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7532172a652c401e806895f5f9469bac
+run_name: efficient-lark-322
+run_uuid: 7532172a652c401e806895f5f9469bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261592301
+status: 3
+tags: []
+user_id: abdulrafay

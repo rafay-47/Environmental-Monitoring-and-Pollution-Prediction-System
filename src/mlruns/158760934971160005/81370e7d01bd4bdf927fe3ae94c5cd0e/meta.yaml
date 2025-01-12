@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/81370e7d01bd4bdf927fe3ae94c5cd0e/artifacts
+end_time: 1734261873957
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 81370e7d01bd4bdf927fe3ae94c5cd0e
+run_name: salty-turtle-681
+run_uuid: 81370e7d01bd4bdf927fe3ae94c5cd0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261873802
+status: 3
+tags: []
+user_id: abdulrafay

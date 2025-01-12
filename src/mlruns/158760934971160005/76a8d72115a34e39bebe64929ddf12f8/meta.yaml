@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/76a8d72115a34e39bebe64929ddf12f8/artifacts
+end_time: 1734257233954
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 76a8d72115a34e39bebe64929ddf12f8
+run_name: able-shrimp-837
+run_uuid: 76a8d72115a34e39bebe64929ddf12f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257233873
+status: 3
+tags: []
+user_id: abdulrafay

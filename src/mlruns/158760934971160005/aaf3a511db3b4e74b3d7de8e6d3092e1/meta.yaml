@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/aaf3a511db3b4e74b3d7de8e6d3092e1/artifacts
+end_time: 1734257230120
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: aaf3a511db3b4e74b3d7de8e6d3092e1
+run_name: caring-crane-867
+run_uuid: aaf3a511db3b4e74b3d7de8e6d3092e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257230033
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/971fef0b4019473f8e33cfea32d50e10/artifacts
+end_time: 1734263865211
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 971fef0b4019473f8e33cfea32d50e10
+run_name: illustrious-bat-673
+run_uuid: 971fef0b4019473f8e33cfea32d50e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865184
+status: 3
+tags: []
+user_id: abdulrafay

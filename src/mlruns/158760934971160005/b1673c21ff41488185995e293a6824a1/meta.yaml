@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b1673c21ff41488185995e293a6824a1/artifacts
+end_time: 1734263117907
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b1673c21ff41488185995e293a6824a1
+run_name: nervous-koi-259
+run_uuid: b1673c21ff41488185995e293a6824a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263117837
+status: 3
+tags: []
+user_id: abdulrafay

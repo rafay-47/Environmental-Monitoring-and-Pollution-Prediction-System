@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a2bab415089547c692df69e38d89bffc/artifacts
+end_time: 1734263945432
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a2bab415089547c692df69e38d89bffc
+run_name: judicious-zebra-569
+run_uuid: a2bab415089547c692df69e38d89bffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263945272
+status: 3
+tags: []
+user_id: abdulrafay

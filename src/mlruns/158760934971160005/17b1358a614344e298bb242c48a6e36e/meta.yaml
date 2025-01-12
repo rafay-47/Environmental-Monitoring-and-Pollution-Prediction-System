@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/17b1358a614344e298bb242c48a6e36e/artifacts
+end_time: 1734159482460
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 17b1358a614344e298bb242c48a6e36e
+run_name: abrasive-crab-586
+run_uuid: 17b1358a614344e298bb242c48a6e36e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734159479757
+status: 3
+tags: []
+user_id: abdulrafay

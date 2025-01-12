@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4ed56cc367a54a48ab8b1a12804a903f/artifacts
+end_time: 1734264353914
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4ed56cc367a54a48ab8b1a12804a903f
+run_name: wise-bug-190
+run_uuid: 4ed56cc367a54a48ab8b1a12804a903f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264353857
+status: 3
+tags: []
+user_id: abdulrafay

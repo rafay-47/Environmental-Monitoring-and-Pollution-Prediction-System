@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/88ca006bbde041d1b7a4d08de843c82b/artifacts
+end_time: 1734264354633
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 88ca006bbde041d1b7a4d08de843c82b
+run_name: skittish-dog-977
+run_uuid: 88ca006bbde041d1b7a4d08de843c82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264354417
+status: 3
+tags: []
+user_id: abdulrafay

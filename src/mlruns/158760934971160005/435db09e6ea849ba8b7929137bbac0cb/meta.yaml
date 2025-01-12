@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/435db09e6ea849ba8b7929137bbac0cb/artifacts
+end_time: 1734263118035
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 435db09e6ea849ba8b7929137bbac0cb
+run_name: casual-penguin-545
+run_uuid: 435db09e6ea849ba8b7929137bbac0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263117985
+status: 3
+tags: []
+user_id: abdulrafay

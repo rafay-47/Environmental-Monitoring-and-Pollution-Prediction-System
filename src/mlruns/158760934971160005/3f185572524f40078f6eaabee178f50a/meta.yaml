@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3f185572524f40078f6eaabee178f50a/artifacts
+end_time: 1734264628245
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3f185572524f40078f6eaabee178f50a
+run_name: rebellious-mule-885
+run_uuid: 3f185572524f40078f6eaabee178f50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264628117
+status: 3
+tags: []
+user_id: abdulrafay

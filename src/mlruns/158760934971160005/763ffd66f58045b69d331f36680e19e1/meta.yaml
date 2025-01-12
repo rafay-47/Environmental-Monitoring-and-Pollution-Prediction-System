@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/763ffd66f58045b69d331f36680e19e1/artifacts
+end_time: 1734263130993
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 763ffd66f58045b69d331f36680e19e1
+run_name: sedate-shrimp-341
+run_uuid: 763ffd66f58045b69d331f36680e19e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263130867
+status: 3
+tags: []
+user_id: abdulrafay

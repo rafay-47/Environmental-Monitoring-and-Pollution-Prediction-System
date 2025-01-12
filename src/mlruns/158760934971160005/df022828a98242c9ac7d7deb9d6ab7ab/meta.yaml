@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/df022828a98242c9ac7d7deb9d6ab7ab/artifacts
+end_time: 1734265124582
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: df022828a98242c9ac7d7deb9d6ab7ab
+run_name: wise-smelt-932
+run_uuid: df022828a98242c9ac7d7deb9d6ab7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265124443
+status: 3
+tags: []
+user_id: abdulrafay

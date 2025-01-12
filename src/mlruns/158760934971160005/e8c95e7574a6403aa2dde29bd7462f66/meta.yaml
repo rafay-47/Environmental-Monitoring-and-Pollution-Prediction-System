@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e8c95e7574a6403aa2dde29bd7462f66/artifacts
+end_time: 1734264017243
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e8c95e7574a6403aa2dde29bd7462f66
+run_name: magnificent-owl-80
+run_uuid: e8c95e7574a6403aa2dde29bd7462f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264017136
+status: 3
+tags: []
+user_id: abdulrafay

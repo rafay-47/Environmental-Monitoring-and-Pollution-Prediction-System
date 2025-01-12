@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/72f73ad031ec4c8b86eb201225d7aeea/artifacts
+end_time: 1734264627659
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 72f73ad031ec4c8b86eb201225d7aeea
+run_name: nosy-goose-940
+run_uuid: 72f73ad031ec4c8b86eb201225d7aeea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264627577
+status: 3
+tags: []
+user_id: abdulrafay

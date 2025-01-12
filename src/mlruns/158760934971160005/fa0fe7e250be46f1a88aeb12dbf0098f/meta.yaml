@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/fa0fe7e250be46f1a88aeb12dbf0098f/artifacts
+end_time: 1734264878619
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: fa0fe7e250be46f1a88aeb12dbf0098f
+run_name: sassy-moose-192
+run_uuid: fa0fe7e250be46f1a88aeb12dbf0098f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264878441
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ba0f451659a04cffae0fce6263623cc5/artifacts
+end_time: 1734264474811
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ba0f451659a04cffae0fce6263623cc5
+run_name: abrasive-perch-681
+run_uuid: ba0f451659a04cffae0fce6263623cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264474729
+status: 3
+tags: []
+user_id: abdulrafay

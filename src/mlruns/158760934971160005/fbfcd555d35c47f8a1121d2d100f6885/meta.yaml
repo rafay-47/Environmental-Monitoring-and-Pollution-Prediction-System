@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/fbfcd555d35c47f8a1121d2d100f6885/artifacts
+end_time: 1734263119307
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: fbfcd555d35c47f8a1121d2d100f6885
+run_name: monumental-horse-766
+run_uuid: fbfcd555d35c47f8a1121d2d100f6885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263119089
+status: 3
+tags: []
+user_id: abdulrafay

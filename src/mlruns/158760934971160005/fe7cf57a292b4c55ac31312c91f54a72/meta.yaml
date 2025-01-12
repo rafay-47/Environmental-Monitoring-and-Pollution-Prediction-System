@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/fe7cf57a292b4c55ac31312c91f54a72/artifacts
+end_time: 1734264627427
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: fe7cf57a292b4c55ac31312c91f54a72
+run_name: rare-frog-6
+run_uuid: fe7cf57a292b4c55ac31312c91f54a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264627359
+status: 3
+tags: []
+user_id: abdulrafay

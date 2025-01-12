@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/684f8ed2a8a04887924ab8ee7856b75b/artifacts
+end_time: 1734265128477
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 684f8ed2a8a04887924ab8ee7856b75b
+run_name: popular-bee-725
+run_uuid: 684f8ed2a8a04887924ab8ee7856b75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265128300
+status: 3
+tags: []
+user_id: abdulrafay

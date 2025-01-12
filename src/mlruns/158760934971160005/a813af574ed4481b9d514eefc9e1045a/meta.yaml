@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a813af574ed4481b9d514eefc9e1045a/artifacts
+end_time: 1734264874321
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a813af574ed4481b9d514eefc9e1045a
+run_name: powerful-crane-53
+run_uuid: a813af574ed4481b9d514eefc9e1045a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264874153
+status: 3
+tags: []
+user_id: abdulrafay

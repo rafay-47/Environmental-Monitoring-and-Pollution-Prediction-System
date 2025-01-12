@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a538a1e76f574f8bb97b2e32e50a46ba/artifacts
+end_time: 1734263865097
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a538a1e76f574f8bb97b2e32e50a46ba
+run_name: adorable-shad-426
+run_uuid: a538a1e76f574f8bb97b2e32e50a46ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865076
+status: 3
+tags: []
+user_id: abdulrafay

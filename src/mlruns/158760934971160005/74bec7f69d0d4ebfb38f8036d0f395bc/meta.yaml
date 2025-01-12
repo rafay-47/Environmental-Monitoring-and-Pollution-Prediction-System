@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/74bec7f69d0d4ebfb38f8036d0f395bc/artifacts
+end_time: 1734264872604
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 74bec7f69d0d4ebfb38f8036d0f395bc
+run_name: salty-trout-743
+run_uuid: 74bec7f69d0d4ebfb38f8036d0f395bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264872498
+status: 3
+tags: []
+user_id: abdulrafay

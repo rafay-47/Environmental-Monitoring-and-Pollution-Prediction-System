@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a1b594d6a2634843b3ca9781b5861aed/artifacts
+end_time: 1734263945961
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a1b594d6a2634843b3ca9781b5861aed
+run_name: mysterious-cat-330
+run_uuid: a1b594d6a2634843b3ca9781b5861aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263945773
+status: 3
+tags: []
+user_id: abdulrafay

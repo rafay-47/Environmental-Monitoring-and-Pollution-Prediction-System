@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4ace8206aa4445b594aa675ede3f6051/artifacts
+end_time: 1734264023501
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4ace8206aa4445b594aa675ede3f6051
+run_name: gifted-boar-282
+run_uuid: 4ace8206aa4445b594aa675ede3f6051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264023410
+status: 3
+tags: []
+user_id: abdulrafay

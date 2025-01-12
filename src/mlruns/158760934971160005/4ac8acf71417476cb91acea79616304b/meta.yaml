@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4ac8acf71417476cb91acea79616304b/artifacts
+end_time: 1734264884248
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4ac8acf71417476cb91acea79616304b
+run_name: aged-fowl-552
+run_uuid: 4ac8acf71417476cb91acea79616304b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264884021
+status: 3
+tags: []
+user_id: abdulrafay

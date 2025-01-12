@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c45bb1bb4dcc4d34bd1e39d3432b0800/artifacts
+end_time: 1734263298422
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c45bb1bb4dcc4d34bd1e39d3432b0800
+run_name: nosy-calf-706
+run_uuid: c45bb1bb4dcc4d34bd1e39d3432b0800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263298358
+status: 3
+tags: []
+user_id: abdulrafay

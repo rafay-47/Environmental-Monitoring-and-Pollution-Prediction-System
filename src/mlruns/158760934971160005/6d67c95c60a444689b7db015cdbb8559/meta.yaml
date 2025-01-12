@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6d67c95c60a444689b7db015cdbb8559/artifacts
+end_time: 1734263757224
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6d67c95c60a444689b7db015cdbb8559
+run_name: debonair-doe-704
+run_uuid: 6d67c95c60a444689b7db015cdbb8559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263757205
+status: 3
+tags: []
+user_id: abdulrafay

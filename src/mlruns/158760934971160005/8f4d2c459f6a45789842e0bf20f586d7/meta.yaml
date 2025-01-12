@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/8f4d2c459f6a45789842e0bf20f586d7/artifacts
+end_time: 1734265128020
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 8f4d2c459f6a45789842e0bf20f586d7
+run_name: bright-toad-466
+run_uuid: 8f4d2c459f6a45789842e0bf20f586d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265127922
+status: 3
+tags: []
+user_id: abdulrafay

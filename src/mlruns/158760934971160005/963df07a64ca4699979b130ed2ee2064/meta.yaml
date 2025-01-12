@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/963df07a64ca4699979b130ed2ee2064/artifacts
+end_time: 1734265119805
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 963df07a64ca4699979b130ed2ee2064
+run_name: thundering-moose-33
+run_uuid: 963df07a64ca4699979b130ed2ee2064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265119613
+status: 3
+tags: []
+user_id: abdulrafay

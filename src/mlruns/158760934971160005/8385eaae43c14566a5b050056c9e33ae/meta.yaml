@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/8385eaae43c14566a5b050056c9e33ae/artifacts
+end_time: 1734264017436
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 8385eaae43c14566a5b050056c9e33ae
+run_name: nervous-hawk-511
+run_uuid: 8385eaae43c14566a5b050056c9e33ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264017249
+status: 3
+tags: []
+user_id: abdulrafay

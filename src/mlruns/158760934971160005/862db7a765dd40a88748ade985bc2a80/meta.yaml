@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/862db7a765dd40a88748ade985bc2a80/artifacts
+end_time: 1734264635746
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 862db7a765dd40a88748ade985bc2a80
+run_name: unequaled-fawn-693
+run_uuid: 862db7a765dd40a88748ade985bc2a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264635687
+status: 3
+tags: []
+user_id: abdulrafay

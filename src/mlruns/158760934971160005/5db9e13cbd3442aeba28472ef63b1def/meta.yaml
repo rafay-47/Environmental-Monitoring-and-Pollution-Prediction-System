@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/5db9e13cbd3442aeba28472ef63b1def/artifacts
+end_time: 1734183628808
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 5db9e13cbd3442aeba28472ef63b1def
+run_name: learned-shad-886
+run_uuid: 5db9e13cbd3442aeba28472ef63b1def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734183626899
+status: 3
+tags: []
+user_id: abdulrafay

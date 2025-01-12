@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/492d3b7de213445cb5a825c5d4d2f63f/artifacts
+end_time: 1734265127575
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 492d3b7de213445cb5a825c5d4d2f63f
+run_name: awesome-skunk-903
+run_uuid: 492d3b7de213445cb5a825c5d4d2f63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265127442
+status: 3
+tags: []
+user_id: abdulrafay

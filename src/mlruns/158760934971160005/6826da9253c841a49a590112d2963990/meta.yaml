@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/6826da9253c841a49a590112d2963990/artifacts
+end_time: 1734264873588
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 6826da9253c841a49a590112d2963990
+run_name: useful-swan-277
+run_uuid: 6826da9253c841a49a590112d2963990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264873508
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/5c08fec8a2824292b3f01ea2557c60eb/artifacts
+end_time: 1734264018247
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 5c08fec8a2824292b3f01ea2557c60eb
+run_name: puzzled-ox-466
+run_uuid: 5c08fec8a2824292b3f01ea2557c60eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264018060
+status: 3
+tags: []
+user_id: abdulrafay

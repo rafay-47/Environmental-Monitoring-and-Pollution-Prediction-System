@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1d8b7c89eddd4a1c8d8e74993160be07/artifacts
+end_time: 1734265129098
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1d8b7c89eddd4a1c8d8e74993160be07
+run_name: efficient-kite-553
+run_uuid: 1d8b7c89eddd4a1c8d8e74993160be07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265128949
+status: 3
+tags: []
+user_id: abdulrafay

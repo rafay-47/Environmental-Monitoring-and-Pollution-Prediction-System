@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1460c00b81d8438fba181e4eb29e014d/artifacts
+end_time: 1734264631667
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1460c00b81d8438fba181e4eb29e014d
+run_name: vaunted-goat-784
+run_uuid: 1460c00b81d8438fba181e4eb29e014d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264631597
+status: 3
+tags: []
+user_id: abdulrafay

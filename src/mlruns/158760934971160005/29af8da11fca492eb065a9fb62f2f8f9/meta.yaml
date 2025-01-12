@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/29af8da11fca492eb065a9fb62f2f8f9/artifacts
+end_time: 1734263117979
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 29af8da11fca492eb065a9fb62f2f8f9
+run_name: bouncy-asp-432
+run_uuid: 29af8da11fca492eb065a9fb62f2f8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263117912
+status: 3
+tags: []
+user_id: abdulrafay

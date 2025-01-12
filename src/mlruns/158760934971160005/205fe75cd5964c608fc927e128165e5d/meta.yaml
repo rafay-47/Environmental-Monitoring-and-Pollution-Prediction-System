@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/205fe75cd5964c608fc927e128165e5d/artifacts
+end_time: 1734263126307
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 205fe75cd5964c608fc927e128165e5d
+run_name: worried-ant-689
+run_uuid: 205fe75cd5964c608fc927e128165e5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263126170
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/756d74014fd549b4bc57646e184bc8ce/artifacts
+end_time: 1734263950816
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 756d74014fd549b4bc57646e184bc8ce
+run_name: funny-pig-904
+run_uuid: 756d74014fd549b4bc57646e184bc8ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263950632
+status: 3
+tags: []
+user_id: abdulrafay

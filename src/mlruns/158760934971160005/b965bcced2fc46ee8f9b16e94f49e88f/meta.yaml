@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b965bcced2fc46ee8f9b16e94f49e88f/artifacts
+end_time: 1734264350277
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b965bcced2fc46ee8f9b16e94f49e88f
+run_name: fearless-midge-712
+run_uuid: b965bcced2fc46ee8f9b16e94f49e88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264350216
+status: 3
+tags: []
+user_id: abdulrafay

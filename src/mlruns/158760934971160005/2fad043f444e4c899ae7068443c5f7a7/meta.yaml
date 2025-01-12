@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2fad043f444e4c899ae7068443c5f7a7/artifacts
+end_time: 1734261585279
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2fad043f444e4c899ae7068443c5f7a7
+run_name: delicate-pug-526
+run_uuid: 2fad043f444e4c899ae7068443c5f7a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261585203
+status: 3
+tags: []
+user_id: abdulrafay

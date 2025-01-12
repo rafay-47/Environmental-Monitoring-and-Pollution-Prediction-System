@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/12da2c26bd3745ae954386dc6d1455f0/artifacts
+end_time: 1734257145081
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 12da2c26bd3745ae954386dc6d1455f0
+run_name: likeable-calf-500
+run_uuid: 12da2c26bd3745ae954386dc6d1455f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257145016
+status: 3
+tags: []
+user_id: abdulrafay

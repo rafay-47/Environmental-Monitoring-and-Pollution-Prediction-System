@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/feeb1bc984f04cd9b7eb32fd13d16cc5/artifacts
+end_time: 1734263865347
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: feeb1bc984f04cd9b7eb32fd13d16cc5
+run_name: rebellious-steed-214
+run_uuid: feeb1bc984f04cd9b7eb32fd13d16cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865325
+status: 3
+tags: []
+user_id: abdulrafay

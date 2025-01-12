@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ea03edf4ceb449dfa8d5593d69a2aa0e/artifacts
+end_time: 1734263864841
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ea03edf4ceb449dfa8d5593d69a2aa0e
+run_name: worried-cow-759
+run_uuid: ea03edf4ceb449dfa8d5593d69a2aa0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263864820
+status: 3
+tags: []
+user_id: abdulrafay

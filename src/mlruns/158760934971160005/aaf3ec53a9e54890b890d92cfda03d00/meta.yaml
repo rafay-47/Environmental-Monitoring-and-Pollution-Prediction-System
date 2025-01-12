@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/aaf3ec53a9e54890b890d92cfda03d00/artifacts
+end_time: 1734261585072
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: aaf3ec53a9e54890b890d92cfda03d00
+run_name: likeable-roo-858
+run_uuid: aaf3ec53a9e54890b890d92cfda03d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261585003
+status: 3
+tags: []
+user_id: abdulrafay

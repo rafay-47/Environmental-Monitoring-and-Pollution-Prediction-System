@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/36e13c44dfdf427e9de26293bd697a03/artifacts
+end_time: 1734264016746
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 36e13c44dfdf427e9de26293bd697a03
+run_name: invincible-skink-582
+run_uuid: 36e13c44dfdf427e9de26293bd697a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264016661
+status: 3
+tags: []
+user_id: abdulrafay

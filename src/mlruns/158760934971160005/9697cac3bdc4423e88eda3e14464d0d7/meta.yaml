@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9697cac3bdc4423e88eda3e14464d0d7/artifacts
+end_time: 1734265129312
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9697cac3bdc4423e88eda3e14464d0d7
+run_name: receptive-sponge-728
+run_uuid: 9697cac3bdc4423e88eda3e14464d0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265129105
+status: 3
+tags: []
+user_id: abdulrafay

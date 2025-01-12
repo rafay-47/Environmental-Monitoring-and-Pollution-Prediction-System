@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/03cef3fee65d4030932108fcee97711b/artifacts
+end_time: 1734264350211
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 03cef3fee65d4030932108fcee97711b
+run_name: abundant-snipe-993
+run_uuid: 03cef3fee65d4030932108fcee97711b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264350062
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7d402c27f70b42d580ada90f4be7f492/artifacts
+end_time: 1734265127818
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7d402c27f70b42d580ada90f4be7f492
+run_name: bustling-cod-419
+run_uuid: 7d402c27f70b42d580ada90f4be7f492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265127582
+status: 3
+tags: []
+user_id: abdulrafay

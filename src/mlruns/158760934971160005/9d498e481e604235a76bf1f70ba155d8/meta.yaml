@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9d498e481e604235a76bf1f70ba155d8/artifacts
+end_time: 1734263130209
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9d498e481e604235a76bf1f70ba155d8
+run_name: traveling-boar-120
+run_uuid: 9d498e481e604235a76bf1f70ba155d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263130112
+status: 3
+tags: []
+user_id: abdulrafay

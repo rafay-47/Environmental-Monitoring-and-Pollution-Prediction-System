@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7b774bb8ceca4e28b685c8c9029714df/artifacts
+end_time: 1734261593773
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7b774bb8ceca4e28b685c8c9029714df
+run_name: languid-panda-604
+run_uuid: 7b774bb8ceca4e28b685c8c9029714df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261593673
+status: 3
+tags: []
+user_id: abdulrafay

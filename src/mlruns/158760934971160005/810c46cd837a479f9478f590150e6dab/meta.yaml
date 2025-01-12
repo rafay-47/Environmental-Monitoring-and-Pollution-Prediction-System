@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/810c46cd837a479f9478f590150e6dab/artifacts
+end_time: 1734264877961
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 810c46cd837a479f9478f590150e6dab
+run_name: salty-quail-672
+run_uuid: 810c46cd837a479f9478f590150e6dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264877835
+status: 3
+tags: []
+user_id: abdulrafay

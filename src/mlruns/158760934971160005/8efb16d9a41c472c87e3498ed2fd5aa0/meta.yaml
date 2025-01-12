@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/8efb16d9a41c472c87e3498ed2fd5aa0/artifacts
+end_time: 1734261868186
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 8efb16d9a41c472c87e3498ed2fd5aa0
+run_name: classy-wolf-980
+run_uuid: 8efb16d9a41c472c87e3498ed2fd5aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261868150
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/0ee61f3b7cdc4bf5af4d0324c81d4b9d/artifacts
+end_time: 1734264354838
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 0ee61f3b7cdc4bf5af4d0324c81d4b9d
+run_name: bittersweet-seal-565
+run_uuid: 0ee61f3b7cdc4bf5af4d0324c81d4b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264354723
+status: 3
+tags: []
+user_id: abdulrafay

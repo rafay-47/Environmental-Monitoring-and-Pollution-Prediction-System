@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b09c79fc2baf452cb003e726b66aa539/artifacts
+end_time: 1734263950404
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b09c79fc2baf452cb003e726b66aa539
+run_name: unequaled-robin-506
+run_uuid: b09c79fc2baf452cb003e726b66aa539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263950260
+status: 3
+tags: []
+user_id: abdulrafay

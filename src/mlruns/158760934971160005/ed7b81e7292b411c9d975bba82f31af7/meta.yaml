@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/ed7b81e7292b411c9d975bba82f31af7/artifacts
+end_time: 1734257229578
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: ed7b81e7292b411c9d975bba82f31af7
+run_name: hilarious-calf-942
+run_uuid: ed7b81e7292b411c9d975bba82f31af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257229540
+status: 3
+tags: []
+user_id: abdulrafay

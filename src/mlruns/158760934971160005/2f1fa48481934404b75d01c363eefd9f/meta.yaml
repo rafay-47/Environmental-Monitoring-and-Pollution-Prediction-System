@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2f1fa48481934404b75d01c363eefd9f/artifacts
+end_time: 1734264473917
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2f1fa48481934404b75d01c363eefd9f
+run_name: calm-asp-326
+run_uuid: 2f1fa48481934404b75d01c363eefd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264473834
+status: 3
+tags: []
+user_id: abdulrafay

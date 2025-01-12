@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/412e6e1f454c4805b4a6a65e7699247d/artifacts
+end_time: 1734264476072
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 412e6e1f454c4805b4a6a65e7699247d
+run_name: bald-shrike-191
+run_uuid: 412e6e1f454c4805b4a6a65e7699247d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264475776
+status: 3
+tags: []
+user_id: abdulrafay

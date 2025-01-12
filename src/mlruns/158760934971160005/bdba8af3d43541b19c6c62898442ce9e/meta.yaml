@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/bdba8af3d43541b19c6c62898442ce9e/artifacts
+end_time: 1734264883994
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: bdba8af3d43541b19c6c62898442ce9e
+run_name: lyrical-fish-417
+run_uuid: bdba8af3d43541b19c6c62898442ce9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264883732
+status: 3
+tags: []
+user_id: abdulrafay

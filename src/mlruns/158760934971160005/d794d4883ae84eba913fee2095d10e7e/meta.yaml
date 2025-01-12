@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d794d4883ae84eba913fee2095d10e7e/artifacts
+end_time: 1734263954768
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d794d4883ae84eba913fee2095d10e7e
+run_name: placid-chimp-344
+run_uuid: d794d4883ae84eba913fee2095d10e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263954699
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f950e05eb85d455db4138b19641e0b0d/artifacts
+end_time: 1734264349545
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f950e05eb85d455db4138b19641e0b0d
+run_name: learned-perch-401
+run_uuid: f950e05eb85d455db4138b19641e0b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349426
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1f9da78ddeee40bfbd528cf49282fe8b/artifacts
+end_time: 1734261876429
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1f9da78ddeee40bfbd528cf49282fe8b
+run_name: mercurial-eel-720
+run_uuid: 1f9da78ddeee40bfbd528cf49282fe8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261876391
+status: 3
+tags: []
+user_id: abdulrafay

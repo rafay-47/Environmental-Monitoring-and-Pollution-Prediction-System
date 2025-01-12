@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d8293d24bc89476d866c029376f4ffae/artifacts
+end_time: 1734183624183
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d8293d24bc89476d866c029376f4ffae
+run_name: gifted-perch-311
+run_uuid: d8293d24bc89476d866c029376f4ffae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734183611824
+status: 3
+tags: []
+user_id: abdulrafay

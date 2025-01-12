@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/cd6dc96fb243401c999d487c9242d673/artifacts
+end_time: 1734261877150
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: cd6dc96fb243401c999d487c9242d673
+run_name: painted-koi-394
+run_uuid: cd6dc96fb243401c999d487c9242d673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261876986
+status: 3
+tags: []
+user_id: abdulrafay

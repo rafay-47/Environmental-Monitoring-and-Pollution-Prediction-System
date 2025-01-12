@@ -1,0 +1,20 @@
+artifact_path: arima_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 41955
+model_uuid: 13a484497bfb49cfab54c47647acf380
+run_id: 9b12295cf17c4235bfd96c284dba1d94
+utc_time_created: '2024-12-14 06:02:16.267776'

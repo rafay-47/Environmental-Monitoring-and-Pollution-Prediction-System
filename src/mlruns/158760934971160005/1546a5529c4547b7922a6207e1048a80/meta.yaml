@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1546a5529c4547b7922a6207e1048a80/artifacts
+end_time: 1734264463847
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1546a5529c4547b7922a6207e1048a80
+run_name: traveling-kite-27
+run_uuid: 1546a5529c4547b7922a6207e1048a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264463746
+status: 3
+tags: []
+user_id: abdulrafay

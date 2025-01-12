@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/0866fdcc98ea4a4c912491f61bb4f20e/artifacts
+end_time: 1734257139977
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 0866fdcc98ea4a4c912491f61bb4f20e
+run_name: gentle-newt-971
+run_uuid: 0866fdcc98ea4a4c912491f61bb4f20e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257139917
+status: 3
+tags: []
+user_id: abdulrafay

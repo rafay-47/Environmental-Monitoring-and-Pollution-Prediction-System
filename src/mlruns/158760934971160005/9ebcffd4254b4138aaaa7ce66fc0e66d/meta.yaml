@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9ebcffd4254b4138aaaa7ce66fc0e66d/artifacts
+end_time: 1734183626892
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9ebcffd4254b4138aaaa7ce66fc0e66d
+run_name: polite-mink-623
+run_uuid: 9ebcffd4254b4138aaaa7ce66fc0e66d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734183624191
+status: 3
+tags: []
+user_id: abdulrafay

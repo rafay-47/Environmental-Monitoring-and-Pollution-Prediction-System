@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/334b361b6ae34f62855eef351de0d9f2/artifacts
+end_time: 1734257135760
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 334b361b6ae34f62855eef351de0d9f2
+run_name: flawless-kit-426
+run_uuid: 334b361b6ae34f62855eef351de0d9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257135699
+status: 3
+tags: []
+user_id: abdulrafay

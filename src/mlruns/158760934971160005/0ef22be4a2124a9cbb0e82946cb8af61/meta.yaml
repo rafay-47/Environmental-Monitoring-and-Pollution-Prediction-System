@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/0ef22be4a2124a9cbb0e82946cb8af61/artifacts
+end_time: 1734264350057
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 0ef22be4a2124a9cbb0e82946cb8af61
+run_name: casual-duck-140
+run_uuid: 0ef22be4a2124a9cbb0e82946cb8af61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264349922
+status: 3
+tags: []
+user_id: abdulrafay

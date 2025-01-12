@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/f4f351e6ab534b7d9da0381d5c4f7dbd/artifacts
+end_time: 1734264469627
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: f4f351e6ab534b7d9da0381d5c4f7dbd
+run_name: resilient-owl-200
+run_uuid: f4f351e6ab534b7d9da0381d5c4f7dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264469575
+status: 3
+tags: []
+user_id: abdulrafay

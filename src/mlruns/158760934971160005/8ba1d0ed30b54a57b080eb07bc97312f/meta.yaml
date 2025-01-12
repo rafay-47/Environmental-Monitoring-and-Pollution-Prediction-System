@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/8ba1d0ed30b54a57b080eb07bc97312f/artifacts
+end_time: 1734264358675
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 8ba1d0ed30b54a57b080eb07bc97312f
+run_name: smiling-lamb-499
+run_uuid: 8ba1d0ed30b54a57b080eb07bc97312f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264358522
+status: 3
+tags: []
+user_id: abdulrafay

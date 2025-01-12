@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/9ac866b0b38647ac91df7ba0a02f7ef4/artifacts
+end_time: 1734264628908
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 9ac866b0b38647ac91df7ba0a02f7ef4
+run_name: clean-croc-823
+run_uuid: 9ac866b0b38647ac91df7ba0a02f7ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264628808
+status: 3
+tags: []
+user_id: abdulrafay

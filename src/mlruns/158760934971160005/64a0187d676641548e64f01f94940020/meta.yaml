@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/64a0187d676641548e64f01f94940020/artifacts
+end_time: 1734257140379
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 64a0187d676641548e64f01f94940020
+run_name: amazing-elk-347
+run_uuid: 64a0187d676641548e64f01f94940020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257140318
+status: 3
+tags: []
+user_id: abdulrafay

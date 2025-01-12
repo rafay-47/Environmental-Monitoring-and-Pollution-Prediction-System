@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a6c991f4a5ce4c5ba88ef1f3f7e15e2d/artifacts
+end_time: 1734257144388
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a6c991f4a5ce4c5ba88ef1f3f7e15e2d
+run_name: skillful-kit-28
+run_uuid: a6c991f4a5ce4c5ba88ef1f3f7e15e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257144323
+status: 3
+tags: []
+user_id: abdulrafay

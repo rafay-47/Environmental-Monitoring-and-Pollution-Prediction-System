@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d1a3a7e297074251952f39559bb499da/artifacts
+end_time: 1734156233868
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d1a3a7e297074251952f39559bb499da
+run_name: painted-kit-937
+run_uuid: d1a3a7e297074251952f39559bb499da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734156229486
+status: 3
+tags: []
+user_id: abdulrafay

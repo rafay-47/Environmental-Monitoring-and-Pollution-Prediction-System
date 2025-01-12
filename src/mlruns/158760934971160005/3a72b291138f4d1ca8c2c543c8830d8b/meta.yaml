@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3a72b291138f4d1ca8c2c543c8830d8b/artifacts
+end_time: 1734263309048
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3a72b291138f4d1ca8c2c543c8830d8b
+run_name: rare-wasp-691
+run_uuid: 3a72b291138f4d1ca8c2c543c8830d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263308851
+status: 3
+tags: []
+user_id: abdulrafay

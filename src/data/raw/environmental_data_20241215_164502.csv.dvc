@@ -1,0 +1,5 @@
+outs:
+- md5: 7598cd8306139fe179d0f6da46dd951f
+  size: 394
+  hash: md5
+  path: environmental_data_20241215_164502.csv

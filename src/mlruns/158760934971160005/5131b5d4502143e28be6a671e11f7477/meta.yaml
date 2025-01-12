@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/5131b5d4502143e28be6a671e11f7477/artifacts
+end_time: 1734261872445
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 5131b5d4502143e28be6a671e11f7477
+run_name: suave-deer-271
+run_uuid: 5131b5d4502143e28be6a671e11f7477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261872400
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/bff664f71fa44bdebe16a7680a01e64b/artifacts
+end_time: 1734261597864
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: bff664f71fa44bdebe16a7680a01e64b
+run_name: bold-stag-22
+run_uuid: bff664f71fa44bdebe16a7680a01e64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261597774
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/031c2ff2a959423086730e3bd3744b89/artifacts
+end_time: 1734156225625
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 031c2ff2a959423086730e3bd3744b89
+run_name: serious-crow-432
+run_uuid: 031c2ff2a959423086730e3bd3744b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734156213968
+status: 3
+tags: []
+user_id: abdulrafay

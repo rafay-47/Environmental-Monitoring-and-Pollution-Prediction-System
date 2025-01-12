@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/b047078bdcfc49cbb89a8d6663c7f74d/artifacts
+end_time: 1734263130458
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: b047078bdcfc49cbb89a8d6663c7f74d
+run_name: suave-turtle-24
+run_uuid: b047078bdcfc49cbb89a8d6663c7f74d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263130389
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/2c52950f991c43e59f8c3ce9855e9c0e/artifacts
+end_time: 1734263117724
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 2c52950f991c43e59f8c3ce9855e9c0e
+run_name: abrasive-wolf-226
+run_uuid: 2c52950f991c43e59f8c3ce9855e9c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263117680
+status: 3
+tags: []
+user_id: abdulrafay

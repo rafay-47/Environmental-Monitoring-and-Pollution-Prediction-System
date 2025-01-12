@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4044c3ae471e48f686761780193bfee6/artifacts
+end_time: 1734157519669
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4044c3ae471e48f686761780193bfee6
+run_name: luminous-flea-298
+run_uuid: 4044c3ae471e48f686761780193bfee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734157515266
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1d2d71c40bf44499afbec2b9561f62e9/artifacts
+end_time: 1734264358334
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1d2d71c40bf44499afbec2b9561f62e9
+run_name: bedecked-penguin-566
+run_uuid: 1d2d71c40bf44499afbec2b9561f62e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264358252
+status: 3
+tags: []
+user_id: abdulrafay

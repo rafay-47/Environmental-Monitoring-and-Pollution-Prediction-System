@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a72c5d3e31614367a5893d5f043ba4aa/artifacts
+end_time: 1734263865318
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a72c5d3e31614367a5893d5f043ba4aa
+run_name: upset-ape-548
+run_uuid: a72c5d3e31614367a5893d5f043ba4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263865296
+status: 3
+tags: []
+user_id: abdulrafay

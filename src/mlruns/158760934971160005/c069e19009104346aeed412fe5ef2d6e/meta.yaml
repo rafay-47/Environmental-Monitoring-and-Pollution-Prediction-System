@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c069e19009104346aeed412fe5ef2d6e/artifacts
+end_time: 1734264359997
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c069e19009104346aeed412fe5ef2d6e
+run_name: welcoming-duck-995
+run_uuid: c069e19009104346aeed412fe5ef2d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264359903
+status: 3
+tags: []
+user_id: abdulrafay

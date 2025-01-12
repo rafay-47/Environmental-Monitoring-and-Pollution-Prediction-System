@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/cc2f3d16f23f4e2390096df91fcceacc/artifacts
+end_time: 1734265122774
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: cc2f3d16f23f4e2390096df91fcceacc
+run_name: gaudy-mule-536
+run_uuid: cc2f3d16f23f4e2390096df91fcceacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265122691
+status: 3
+tags: []
+user_id: abdulrafay

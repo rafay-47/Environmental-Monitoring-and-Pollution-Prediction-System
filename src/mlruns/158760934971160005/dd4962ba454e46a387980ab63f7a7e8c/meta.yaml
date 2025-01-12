@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/dd4962ba454e46a387980ab63f7a7e8c/artifacts
+end_time: 1734257050619
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: dd4962ba454e46a387980ab63f7a7e8c
+run_name: dazzling-loon-975
+run_uuid: dd4962ba454e46a387980ab63f7a7e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257044870
+status: 3
+tags: []
+user_id: abdulrafay

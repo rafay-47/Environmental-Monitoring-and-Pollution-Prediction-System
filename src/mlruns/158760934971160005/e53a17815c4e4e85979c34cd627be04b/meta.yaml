@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e53a17815c4e4e85979c34cd627be04b/artifacts
+end_time: 1734264469568
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e53a17815c4e4e85979c34cd627be04b
+run_name: enthused-wolf-30
+run_uuid: e53a17815c4e4e85979c34cd627be04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264469500
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/3c182f01b143428cb271feae395edf4e/artifacts
+end_time: 1734264627731
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 3c182f01b143428cb271feae395edf4e
+run_name: bold-hound-759
+run_uuid: 3c182f01b143428cb271feae395edf4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264627663
+status: 3
+tags: []
+user_id: abdulrafay

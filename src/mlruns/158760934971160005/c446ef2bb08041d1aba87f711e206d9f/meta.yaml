@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/c446ef2bb08041d1aba87f711e206d9f/artifacts
+end_time: 1734263949443
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: c446ef2bb08041d1aba87f711e206d9f
+run_name: brawny-jay-66
+run_uuid: c446ef2bb08041d1aba87f711e206d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263949403
+status: 3
+tags: []
+user_id: abdulrafay

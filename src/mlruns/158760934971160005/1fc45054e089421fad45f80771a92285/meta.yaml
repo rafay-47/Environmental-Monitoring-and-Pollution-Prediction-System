@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/1fc45054e089421fad45f80771a92285/artifacts
+end_time: 1734257144240
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 1fc45054e089421fad45f80771a92285
+run_name: carefree-flea-746
+run_uuid: 1fc45054e089421fad45f80771a92285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257144104
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a40e841ef15e4e92add18e7be56f2f0c/artifacts
+end_time: 1734264023892
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a40e841ef15e4e92add18e7be56f2f0c
+run_name: thoughtful-lynx-664
+run_uuid: a40e841ef15e4e92add18e7be56f2f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264023697
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/246fad6f20734cee80c288591c1f10cd/artifacts
+end_time: 1734156229481
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 246fad6f20734cee80c288591c1f10cd
+run_name: bemused-sow-521
+run_uuid: 246fad6f20734cee80c288591c1f10cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734156225635
+status: 3
+tags: []
+user_id: abdulrafay

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d859bb3773cd45d888d26de40ca37457/artifacts
+end_time: 1734263757543
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d859bb3773cd45d888d26de40ca37457
+run_name: nosy-tern-244
+run_uuid: d859bb3773cd45d888d26de40ca37457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263757470
+status: 3
+tags: []
+user_id: abdulrafay

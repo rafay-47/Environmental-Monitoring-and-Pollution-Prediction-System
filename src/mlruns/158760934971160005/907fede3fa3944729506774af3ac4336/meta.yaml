@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/907fede3fa3944729506774af3ac4336/artifacts
+end_time: 1734264627298
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 907fede3fa3944729506774af3ac4336
+run_name: secretive-conch-449
+run_uuid: 907fede3fa3944729506774af3ac4336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264627252
+status: 3
+tags: []
+user_id: abdulrafay

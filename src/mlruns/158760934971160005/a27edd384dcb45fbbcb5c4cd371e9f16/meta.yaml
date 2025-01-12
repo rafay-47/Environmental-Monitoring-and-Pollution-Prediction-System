@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/a27edd384dcb45fbbcb5c4cd371e9f16/artifacts
+end_time: 1734264631518
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: a27edd384dcb45fbbcb5c4cd371e9f16
+run_name: ARIMA_Hyperparameter_Tuning
+run_uuid: a27edd384dcb45fbbcb5c4cd371e9f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264627226
+status: 3
+tags: []
+user_id: abdulrafay

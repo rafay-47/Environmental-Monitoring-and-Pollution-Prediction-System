@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/22baad72283a440fa9df386a94239bdb/artifacts
+end_time: 1734261593913
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 22baad72283a440fa9df386a94239bdb
+run_name: invincible-crow-437
+run_uuid: 22baad72283a440fa9df386a94239bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261593776
+status: 3
+tags: []
+user_id: abdulrafay

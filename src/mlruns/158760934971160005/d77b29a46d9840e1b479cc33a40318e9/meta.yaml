@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/d77b29a46d9840e1b479cc33a40318e9/artifacts
+end_time: 1734264878277
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: d77b29a46d9840e1b479cc33a40318e9
+run_name: handsome-crab-616
+run_uuid: d77b29a46d9840e1b479cc33a40318e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264878135
+status: 3
+tags: []
+user_id: abdulrafay

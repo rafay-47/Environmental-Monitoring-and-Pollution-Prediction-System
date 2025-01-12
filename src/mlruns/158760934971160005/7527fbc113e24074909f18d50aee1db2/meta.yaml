@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/7527fbc113e24074909f18d50aee1db2/artifacts
+end_time: 1734261876319
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 7527fbc113e24074909f18d50aee1db2
+run_name: righteous-shrew-369
+run_uuid: 7527fbc113e24074909f18d50aee1db2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261876263
+status: 3
+tags: []
+user_id: abdulrafay

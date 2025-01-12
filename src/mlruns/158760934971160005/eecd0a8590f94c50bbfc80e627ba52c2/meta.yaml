@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/eecd0a8590f94c50bbfc80e627ba52c2/artifacts
+end_time: 1734263309110
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: eecd0a8590f94c50bbfc80e627ba52c2
+run_name: nosy-ape-80
+run_uuid: eecd0a8590f94c50bbfc80e627ba52c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263309053
+status: 3
+tags: []
+user_id: abdulrafay

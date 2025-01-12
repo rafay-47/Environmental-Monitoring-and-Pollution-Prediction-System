@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/cd9fe801245649899c9f6458aa28c737/artifacts
+end_time: 1734265119496
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: cd9fe801245649899c9f6458aa28c737
+run_name: unequaled-owl-44
+run_uuid: cd9fe801245649899c9f6458aa28c737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265119429
+status: 3
+tags: []
+user_id: abdulrafay

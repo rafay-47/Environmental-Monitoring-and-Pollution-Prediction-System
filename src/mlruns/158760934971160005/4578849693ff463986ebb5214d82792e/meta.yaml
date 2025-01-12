@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/4578849693ff463986ebb5214d82792e/artifacts
+end_time: 1734257144035
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 4578849693ff463986ebb5214d82792e
+run_name: rebellious-hen-655
+run_uuid: 4578849693ff463986ebb5214d82792e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257143970
+status: 3
+tags: []
+user_id: abdulrafay

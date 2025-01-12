@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/29684f0d00d949a8a38a289af5cb9862/artifacts
+end_time: 1734257230712
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 29684f0d00d949a8a38a289af5cb9862
+run_name: adaptable-horse-201
+run_uuid: 29684f0d00d949a8a38a289af5cb9862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257230544
+status: 3
+tags: []
+user_id: abdulrafay

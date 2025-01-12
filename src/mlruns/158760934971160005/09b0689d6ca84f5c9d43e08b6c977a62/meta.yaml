@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/09b0689d6ca84f5c9d43e08b6c977a62/artifacts
+end_time: 1734257229923
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 09b0689d6ca84f5c9d43e08b6c977a62
+run_name: adventurous-fly-633
+run_uuid: 09b0689d6ca84f5c9d43e08b6c977a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257229789
+status: 3
+tags: []
+user_id: abdulrafay

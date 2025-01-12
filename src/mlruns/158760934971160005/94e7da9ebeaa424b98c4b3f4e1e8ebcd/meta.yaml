@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/94e7da9ebeaa424b98c4b3f4e1e8ebcd/artifacts
+end_time: 1734257144099
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: 94e7da9ebeaa424b98c4b3f4e1e8ebcd
+run_name: sneaky-mouse-427
+run_uuid: 94e7da9ebeaa424b98c4b3f4e1e8ebcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257144037
+status: 3
+tags: []
+user_id: abdulrafay

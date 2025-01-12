@@ -1,0 +1,6 @@
+artifact_location: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005
+creation_time: 1734156126955
+experiment_id: '158760934971160005'
+last_update_time: 1734156126955
+lifecycle_stage: active
+name: aqi_prediction

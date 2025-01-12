@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdulrafay/mlops/course-project-abdul-rafay-1/src/mlruns/158760934971160005/e16a8bc0c29543be812718a55c91fcc4/artifacts
+end_time: 1734264474992
+entry_point_name: ''
+experiment_id: '158760934971160005'
+lifecycle_stage: active
+run_id: e16a8bc0c29543be812718a55c91fcc4
+run_name: omniscient-wasp-469
+run_uuid: e16a8bc0c29543be812718a55c91fcc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264474816
+status: 3
+tags: []
+user_id: abdulrafay
